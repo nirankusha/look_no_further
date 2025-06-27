@@ -1,0 +1,29 @@
+{
+  "full": {
+    "comet_entropy_correlation": -0.20708050699812236,
+    "num_samples": 110,
+    "avg_comet": 0.006314268979159268,
+    "avg_entropy": 3.5792428309097275,
+    "std_comet": 0.14465878094866363,
+    "std_entropy": 0.3510670186094221,
+    "comet_surprisal_correlation": -0.01063917583904125
+  },
+  "conditional": {
+    "comet_entropy_correlation": -0.07907256041262041,
+    "num_samples": 110,
+    "avg_comet": 0.006314268979159268,
+    "avg_entropy": 9.31756217281801,
+    "std_comet": 0.14465878094866363,
+    "std_entropy": 0.5350637387577892,
+    "comet_surprisal_correlation": 0.08413625977929921
+  },
+  "manual_autoregressive": {
+    "comet_entropy_correlation": NaN,
+    "num_samples": 110,
+    "avg_comet": 0.006314268979159268,
+    "avg_entropy": NaN,
+    "std_comet": 0.14465878094866363,
+    "std_entropy": NaN,
+    "comet_surprisal_correlation": NaN
+  }
+}

@@ -1,0 +1,2854 @@
+{
+    "/content/drive/MyDrive/NMT/corpus_annotation/svo/svo_full_targets.txt": [
+        {
+            "src": "Kobieta weszła do kawiarni.",
+            "mt": "The woman entered the cafe.",
+            "COMET": 0.4150390625
+        },
+        {
+            "src": "Kobieta weszła do kawiarni.",
+            "mt": "The woman entered the café.",
+            "COMET": 0.39794921875
+        },
+        {
+            "src": "Kobieta weszła do kawiarni.",
+            "mt": "The woman went into the cafe.",
+            "COMET": 0.340087890625
+        },
+        {
+            "src": "Kobieta weszła do kawiarni.",
+            "mt": "A woman entered the cafe.",
+            "COMET": 0.377197265625
+        },
+        {
+            "src": "Kobieta weszła do kawiarni.",
+            "mt": "The woman enters the cafe.",
+            "COMET": 0.3486328125
+        },
+        {
+            "src": "Kobieta weszła do kawiarni.",
+            "mt": "A woman enters the cafe.",
+            "COMET": 0.366943359375
+        },
+        {
+            "src": "Kobieta weszła do kawiarni.",
+            "mt": "The woman came into the cafe.",
+            "COMET": 0.26513671875
+        },
+        {
+            "src": "Kobieta weszła do kawiarni.",
+            "mt": "The woman went to the cafe.",
+            "COMET": 0.18603515625
+        },
+        {
+            "src": "Kobieta weszła do kawiarni.",
+            "mt": "The woman went into the café.",
+            "COMET": 0.34716796875
+        },
+        {
+            "src": "Kobieta weszła do kawiarni.",
+            "mt": "A woman entered the café.",
+            "COMET": 0.38916015625
+        },
+        {
+            "src": "Mężczyzna przeszedł przez most.",
+            "mt": "The man crossed the bridge.",
+            "COMET": 0.403076171875
+        },
+        {
+            "src": "Mężczyzna przeszedł przez most.",
+            "mt": "A man crossed the bridge.",
+            "COMET": 0.457763671875
+        },
+        {
+            "src": "Mężczyzna przeszedł przez most.",
+            "mt": "The man passed through the bridge.",
+            "COMET": 0.359130859375
+        },
+        {
+            "src": "Mężczyzna przeszedł przez most.",
+            "mt": "The man passed the bridge.",
+            "COMET": 0.336669921875
+        },
+        {
+            "src": "Mężczyzna przeszedł przez most.",
+            "mt": "A man crossed a bridge.",
+            "COMET": 0.41259765625
+        },
+        {
+            "src": "Mężczyzna przeszedł przez most.",
+            "mt": "The man went through the bridge.",
+            "COMET": 0.342529296875
+        },
+        {
+            "src": "Mężczyzna przeszedł przez most.",
+            "mt": "A man passed through the bridge.",
+            "COMET": 0.38427734375
+        },
+        {
+            "src": "Mężczyzna przeszedł przez most.",
+            "mt": "The man crossed a bridge.",
+            "COMET": 0.385986328125
+        },
+        {
+            "src": "Mężczyzna przeszedł przez most.",
+            "mt": "A man crosses the bridge.",
+            "COMET": 0.44091796875
+        },
+        {
+            "src": "Mężczyzna przeszedł przez most.",
+            "mt": "A man passed the bridge.",
+            "COMET": 0.35791015625
+        },
+        {
+            "src": "Dziecko zobaczyło psa.",
+            "mt": "The boy saw a dog.",
+            "COMET": 0.43310546875
+        },
+        {
+            "src": "Dziecko zobaczyło psa.",
+            "mt": "The child saw a dog.",
+            "COMET": 0.58203125
+        },
+        {
+            "src": "Dziecko zobaczyło psa.",
+            "mt": "The kid saw a dog.",
+            "COMET": 0.56591796875
+        },
+        {
+            "src": "Dziecko zobaczyło psa.",
+            "mt": "The boy saw the dog.",
+            "COMET": 0.353759765625
+        },
+        {
+            "src": "Dziecko zobaczyło psa.",
+            "mt": "The baby saw a dog.",
+            "COMET": 0.57177734375
+        },
+        {
+            "src": "Dziecko zobaczyło psa.",
+            "mt": "The child saw the dog.",
+            "COMET": 0.365478515625
+        },
+        {
+            "src": "Dziecko zobaczyło psa.",
+            "mt": "The kid saw the dog.",
+            "COMET": 0.380859375
+        },
+        {
+            "src": "Dziecko zobaczyło psa.",
+            "mt": "The baby saw the dog.",
+            "COMET": 0.33154296875
+        },
+        {
+            "src": "Dziecko zobaczyło psa.",
+            "mt": "The boy sees a dog.",
+            "COMET": 0.06561279296875
+        },
+        {
+            "src": "Dziecko zobaczyło psa.",
+            "mt": "The girl saw a dog.",
+            "COMET": 0.494873046875
+        },
+        {
+            "src": "Książka leży na biurku.",
+            "mt": "The book is on the desk.",
+            "COMET": 0.29736328125
+        },
+        {
+            "src": "Książka leży na biurku.",
+            "mt": "The book is lying on the desk.",
+            "COMET": 0.49462890625
+        },
+        {
+            "src": "Książka leży na biurku.",
+            "mt": "The book is on a desk.",
+            "COMET": 0.320068359375
+        },
+        {
+            "src": "Książka leży na biurku.",
+            "mt": "The book is located on the desk.",
+            "COMET": 0.253173828125
+        },
+        {
+            "src": "Książka leży na biurku.",
+            "mt": "The book lies on the desk.",
+            "COMET": 0.49755859375
+        },
+        {
+            "src": "Książka leży na biurku.",
+            "mt": "The book sits on the desk.",
+            "COMET": 0.479248046875
+        },
+        {
+            "src": "Książka leży na biurku.",
+            "mt": "The book is sitting on the desk.",
+            "COMET": 0.44287109375
+        },
+        {
+            "src": "Książka leży na biurku.",
+            "mt": "The book is lying on a desk.",
+            "COMET": 0.494384765625
+        },
+        {
+            "src": "Książka leży na biurku.",
+            "mt": "The book is on the table.",
+            "COMET": 0.0537109375
+        },
+        {
+            "src": "Książka leży na biurku.",
+            "mt": "The book sits on a desk.",
+            "COMET": 0.467041015625
+        },
+        {
+            "src": "Samochód jeździ po drodze.",
+            "mt": "The car rides along the road.",
+            "COMET": 0.015411376953125
+        },
+        {
+            "src": "Samochód jeździ po drodze.",
+            "mt": "The car is driving along the road.",
+            "COMET": -0.06634521484375
+        },
+        {
+            "src": "Samochód jeździ po drodze.",
+            "mt": "The car drives along the road.",
+            "COMET": 0.2183837890625
+        },
+        {
+            "src": "Samochód jeździ po drodze.",
+            "mt": "A car rides along the road.",
+            "COMET": -0.0748291015625
+        },
+        {
+            "src": "Samochód jeździ po drodze.",
+            "mt": "The car rides down the road.",
+            "COMET": 0.045074462890625
+        },
+        {
+            "src": "Samochód jeździ po drodze.",
+            "mt": "The car rides along the way.",
+            "COMET": -0.12274169921875
+        },
+        {
+            "src": "Samochód jeździ po drodze.",
+            "mt": "The car rides on the road.",
+            "COMET": -0.1331787109375
+        },
+        {
+            "src": "Samochód jeździ po drodze.",
+            "mt": "A car drives along the road.",
+            "COMET": 0.0966796875
+        },
+        {
+            "src": "Samochód jeździ po drodze.",
+            "mt": "The car is on the road.",
+            "COMET": -0.213134765625
+        },
+        {
+            "src": "Samochód jeździ po drodze.",
+            "mt": "The car is on the way.",
+            "COMET": -0.1650390625
+        },
+        {
+            "src": "Pies biega w parku.",
+            "mt": "The dog runs in the park.",
+            "COMET": 0.060546875
+        },
+        {
+            "src": "Pies biega w parku.",
+            "mt": "The dog is running in the park.",
+            "COMET": 0.052093505859375
+        },
+        {
+            "src": "Pies biega w parku.",
+            "mt": "The dog runs in a park.",
+            "COMET": -0.080078125
+        },
+        {
+            "src": "Pies biega w parku.",
+            "mt": "The dog runs through the park.",
+            "COMET": 0.1697998046875
+        },
+        {
+            "src": "Pies biega w parku.",
+            "mt": "The dog races in the park.",
+            "COMET": -0.444580078125
+        },
+        {
+            "src": "Pies biega w parku.",
+            "mt": "The dog walks in the park.",
+            "COMET": 0.1448974609375
+        },
+        {
+            "src": "Pies biega w parku.",
+            "mt": "A dog runs in the park.",
+            "COMET": 0.14111328125
+        },
+        {
+            "src": "Pies biega w parku.",
+            "mt": "The dog runs into the park.",
+            "COMET": -0.2724609375
+        },
+        {
+            "src": "Pies biega w parku.",
+            "mt": "Dog runs in the park.",
+            "COMET": 0.015411376953125
+        },
+        {
+            "src": "Pies biega w parku.",
+            "mt": "The dog runs around the park.",
+            "COMET": 0.34619140625
+        },
+        {
+            "src": "Kobieta kupiła kwiaty.",
+            "mt": "The woman bought flowers.",
+            "COMET": 0.529296875
+        },
+        {
+            "src": "Kobieta kupiła kwiaty.",
+            "mt": "A woman bought flowers.",
+            "COMET": 0.482421875
+        },
+        {
+            "src": "Kobieta kupiła kwiaty.",
+            "mt": "The woman purchased flowers.",
+            "COMET": 0.55712890625
+        },
+        {
+            "src": "Kobieta kupiła kwiaty.",
+            "mt": "The woman buys flowers.",
+            "COMET": 0.39404296875
+        },
+        {
+            "src": "Kobieta kupiła kwiaty.",
+            "mt": "The girl bought flowers.",
+            "COMET": 0.515625
+        },
+        {
+            "src": "Kobieta kupiła kwiaty.",
+            "mt": "The woman bought the flowers.",
+            "COMET": 0.4189453125
+        },
+        {
+            "src": "Kobieta kupiła kwiaty.",
+            "mt": "She bought flowers.",
+            "COMET": 0.43212890625
+        },
+        {
+            "src": "Kobieta kupiła kwiaty.",
+            "mt": "The lady bought flowers.",
+            "COMET": 0.5283203125
+        },
+        {
+            "src": "Kobieta kupiła kwiaty.",
+            "mt": "The woman purchased the flowers.",
+            "COMET": 0.413330078125
+        },
+        {
+            "src": "Kobieta kupiła kwiaty.",
+            "mt": "The woman bought a flower.",
+            "COMET": 0.390625
+        },
+        {
+            "src": "Mężczyzna czyta książkę.",
+            "mt": "A man reads a book.",
+            "COMET": 0.306396484375
+        },
+        {
+            "src": "Mężczyzna czyta książkę.",
+            "mt": "The man reads a book.",
+            "COMET": 0.382568359375
+        },
+        {
+            "src": "Mężczyzna czyta książkę.",
+            "mt": "The man reads the book.",
+            "COMET": 0.1839599609375
+        },
+        {
+            "src": "Mężczyzna czyta książkę.",
+            "mt": "A man is reading a book.",
+            "COMET": 0.430419921875
+        },
+        {
+            "src": "Mężczyzna czyta książkę.",
+            "mt": "The man is reading a book.",
+            "COMET": 0.456787109375
+        },
+        {
+            "src": "Mężczyzna czyta książkę.",
+            "mt": "A man reads the book.",
+            "COMET": 0.121826171875
+        },
+        {
+            "src": "Mężczyzna czyta książkę.",
+            "mt": "He reads a book.",
+            "COMET": 0.038116455078125
+        },
+        {
+            "src": "Mężczyzna czyta książkę.",
+            "mt": "A man reading a book.",
+            "COMET": 0.3818359375
+        },
+        {
+            "src": "Mężczyzna czyta książkę.",
+            "mt": "A man read a book.",
+            "COMET": 0.251708984375
+        },
+        {
+            "src": "Mężczyzna czyta książkę.",
+            "mt": "The man read a book.",
+            "COMET": 0.313232421875
+        },
+        {
+            "src": "Dziecko gra z przyjacielem.",
+            "mt": "The child plays with a friend.",
+            "COMET": 0.42919921875
+        },
+        {
+            "src": "Dziecko gra z przyjacielem.",
+            "mt": "A child plays with a friend.",
+            "COMET": 0.486328125
+        },
+        {
+            "src": "Dziecko gra z przyjacielem.",
+            "mt": "The boy plays with a friend.",
+            "COMET": 0.4208984375
+        },
+        {
+            "src": "Dziecko gra z przyjacielem.",
+            "mt": "The child is playing with a friend.",
+            "COMET": 0.442138671875
+        },
+        {
+            "src": "Dziecko gra z przyjacielem.",
+            "mt": "The kid plays with a friend.",
+            "COMET": 0.48046875
+        },
+        {
+            "src": "Dziecko gra z przyjacielem.",
+            "mt": "A boy plays with a friend.",
+            "COMET": 0.42626953125
+        },
+        {
+            "src": "Dziecko gra z przyjacielem.",
+            "mt": "The child plays with his friend.",
+            "COMET": 0.5068359375
+        },
+        {
+            "src": "Dziecko gra z przyjacielem.",
+            "mt": "Child plays with a friend.",
+            "COMET": 0.481689453125
+        },
+        {
+            "src": "Dziecko gra z przyjacielem.",
+            "mt": "The boy is playing with a friend.",
+            "COMET": 0.434326171875
+        },
+        {
+            "src": "Dziecko gra z przyjacielem.",
+            "mt": "The kid plays with his friend.",
+            "COMET": 0.52099609375
+        },
+        {
+            "src": "Samochód stoi na parkingu.",
+            "mt": "The car stands in the parking lot.",
+            "COMET": 0.2425537109375
+        },
+        {
+            "src": "Samochód stoi na parkingu.",
+            "mt": "The car is in the parking lot.",
+            "COMET": 0.11993408203125
+        },
+        {
+            "src": "Samochód stoi na parkingu.",
+            "mt": "The car stands on the parking lot.",
+            "COMET": 0.37744140625
+        },
+        {
+            "src": "Samochód stoi na parkingu.",
+            "mt": "The car is standing in the parking lot.",
+            "COMET": 0.214599609375
+        },
+        {
+            "src": "Samochód stoi na parkingu.",
+            "mt": "The car stands in a parking lot.",
+            "COMET": 0.386474609375
+        },
+        {
+            "src": "Samochód stoi na parkingu.",
+            "mt": "The car is in a parking lot.",
+            "COMET": 0.25048828125
+        },
+        {
+            "src": "Samochód stoi na parkingu.",
+            "mt": "The car is on the parking lot.",
+            "COMET": 0.206298828125
+        },
+        {
+            "src": "Samochód stoi na parkingu.",
+            "mt": "The car stands at the parking lot.",
+            "COMET": 0.27294921875
+        },
+        {
+            "src": "Samochód stoi na parkingu.",
+            "mt": "The car is standing in a parking lot.",
+            "COMET": 0.290771484375
+        },
+        {
+            "src": "Samochód stoi na parkingu.",
+            "mt": "The car stands in the car park.",
+            "COMET": 0.032440185546875
+        },
+        {
+            "src": "Pies szuka domu.",
+            "mt": "The dog is looking for a home.",
+            "COMET": 0.480224609375
+        },
+        {
+            "src": "Pies szuka domu.",
+            "mt": "The dog is looking for a house.",
+            "COMET": 0.345703125
+        },
+        {
+            "src": "Pies szuka domu.",
+            "mt": "The dog is searching for a home.",
+            "COMET": 0.46728515625
+        },
+        {
+            "src": "Pies szuka domu.",
+            "mt": "The dog is looking for home.",
+            "COMET": 0.347900390625
+        },
+        {
+            "src": "Pies szuka domu.",
+            "mt": "The dog seeks a home.",
+            "COMET": 0.583984375
+        },
+        {
+            "src": "Pies szuka domu.",
+            "mt": "The dog searches for a home.",
+            "COMET": 0.477294921875
+        },
+        {
+            "src": "Pies szuka domu.",
+            "mt": "The dog is searching for a house.",
+            "COMET": 0.287841796875
+        },
+        {
+            "src": "Pies szuka domu.",
+            "mt": "The dog seeks home.",
+            "COMET": 0.1658935546875
+        },
+        {
+            "src": "Pies szuka domu.",
+            "mt": "The dog finds a home.",
+            "COMET": 0.328369140625
+        },
+        {
+            "src": "Pies szuka domu.",
+            "mt": "The dog is looking for a place.",
+            "COMET": 0.175048828125
+        },
+        {
+            "src": "Kobieta rozmawia z przyjacielem.",
+            "mt": "A woman talks to a friend.",
+            "COMET": 0.380615234375
+        },
+        {
+            "src": "Kobieta rozmawia z przyjacielem.",
+            "mt": "The woman talks to a friend.",
+            "COMET": 0.334228515625
+        },
+        {
+            "src": "Kobieta rozmawia z przyjacielem.",
+            "mt": "The woman is talking to a friend.",
+            "COMET": 0.32275390625
+        },
+        {
+            "src": "Kobieta rozmawia z przyjacielem.",
+            "mt": "A woman is talking to a friend.",
+            "COMET": 0.350830078125
+        },
+        {
+            "src": "Kobieta rozmawia z przyjacielem.",
+            "mt": "A woman speaks to a friend.",
+            "COMET": 0.288818359375
+        },
+        {
+            "src": "Kobieta rozmawia z przyjacielem.",
+            "mt": "The woman talks with a friend.",
+            "COMET": 0.483642578125
+        },
+        {
+            "src": "Kobieta rozmawia z przyjacielem.",
+            "mt": "The woman talks to her friend.",
+            "COMET": 0.412353515625
+        },
+        {
+            "src": "Kobieta rozmawia z przyjacielem.",
+            "mt": "She talks to a friend.",
+            "COMET": 0.2171630859375
+        },
+        {
+            "src": "Kobieta rozmawia z przyjacielem.",
+            "mt": "A woman talks with a friend.",
+            "COMET": 0.50048828125
+        },
+        {
+            "src": "Kobieta rozmawia z przyjacielem.",
+            "mt": "The girl talks to a friend.",
+            "COMET": 0.3505859375
+        },
+        {
+            "src": "Mężczyzna ogląda film.",
+            "mt": "A man watches a movie.",
+            "COMET": 0.43115234375
+        },
+        {
+            "src": "Mężczyzna ogląda film.",
+            "mt": "A man watches a film.",
+            "COMET": 0.44921875
+        },
+        {
+            "src": "Mężczyzna ogląda film.",
+            "mt": "The man watches the movie.",
+            "COMET": 0.363525390625
+        },
+        {
+            "src": "Mężczyzna ogląda film.",
+            "mt": "The man watches the film.",
+            "COMET": 0.362060546875
+        },
+        {
+            "src": "Mężczyzna ogląda film.",
+            "mt": "A man watches the film.",
+            "COMET": 0.420654296875
+        },
+        {
+            "src": "Mężczyzna ogląda film.",
+            "mt": "A man watches the movie.",
+            "COMET": 0.429443359375
+        },
+        {
+            "src": "Mężczyzna ogląda film.",
+            "mt": "The man watches a movie.",
+            "COMET": 0.465576171875
+        },
+        {
+            "src": "Mężczyzna ogląda film.",
+            "mt": "A man is watching a movie.",
+            "COMET": 0.359375
+        },
+        {
+            "src": "Mężczyzna ogląda film.",
+            "mt": "A man is watching a film.",
+            "COMET": 0.39697265625
+        },
+        {
+            "src": "Mężczyzna ogląda film.",
+            "mt": "The man watches a film.",
+            "COMET": 0.462890625
+        },
+        {
+            "src": "Dziecko uczy się w szkole.",
+            "mt": "The child learns at school.",
+            "COMET": 0.452880859375
+        },
+        {
+            "src": "Dziecko uczy się w szkole.",
+            "mt": "The child is educated at school.",
+            "COMET": 0.2386474609375
+        },
+        {
+            "src": "Dziecko uczy się w szkole.",
+            "mt": "The child attends school.",
+            "COMET": 0.164794921875
+        },
+        {
+            "src": "Dziecko uczy się w szkole.",
+            "mt": "The child goes to school.",
+            "COMET": -0.08770751953125
+        },
+        {
+            "src": "Dziecko uczy się w szkole.",
+            "mt": "The child is studying at school.",
+            "COMET": 0.26513671875
+        },
+        {
+            "src": "Dziecko uczy się w szkole.",
+            "mt": "The child is learning at school.",
+            "COMET": 0.328125
+        },
+        {
+            "src": "Dziecko uczy się w szkole.",
+            "mt": "The child studies at school.",
+            "COMET": -0.448486328125
+        },
+        {
+            "src": "Dziecko uczy się w szkole.",
+            "mt": "The child is educated in school.",
+            "COMET": 0.0276641845703125
+        },
+        {
+            "src": "Dziecko uczy się w szkole.",
+            "mt": "The child is taught at school.",
+            "COMET": -0.00794219970703125
+        },
+        {
+            "src": "Dziecko uczy się w szkole.",
+            "mt": "The child learns in school.",
+            "COMET": 0.442626953125
+        },
+        {
+            "src": "Samochód jedzie na lotnisko.",
+            "mt": "The car goes to the airport.",
+            "COMET": -0.1217041015625
+        },
+        {
+            "src": "Samochód jedzie na lotnisko.",
+            "mt": "The car is going to the airport.",
+            "COMET": -0.0018663406372070312
+        },
+        {
+            "src": "Samochód jedzie na lotnisko.",
+            "mt": "A car goes to the airport.",
+            "COMET": -0.27001953125
+        },
+        {
+            "src": "Samochód jedzie na lotnisko.",
+            "mt": "The car drives to the airport.",
+            "COMET": 0.01396942138671875
+        },
+        {
+            "src": "Samochód jedzie na lotnisko.",
+            "mt": "The car rides to the airport.",
+            "COMET": -0.16748046875
+        },
+        {
+            "src": "Samochód jedzie na lotnisko.",
+            "mt": "The car is driving to the airport.",
+            "COMET": 0.02105712890625
+        },
+        {
+            "src": "Samochód jedzie na lotnisko.",
+            "mt": "A car is going to the airport.",
+            "COMET": -0.09930419921875
+        },
+        {
+            "src": "Samochód jedzie na lotnisko.",
+            "mt": "The car heads to the airport.",
+            "COMET": 0.09564208984375
+        },
+        {
+            "src": "Samochód jedzie na lotnisko.",
+            "mt": "Car goes to the airport.",
+            "COMET": -0.3447265625
+        },
+        {
+            "src": "Samochód jedzie na lotnisko.",
+            "mt": "The car is heading to the airport",
+            "COMET": 0.10394287109375
+        },
+        {
+            "src": "Pies biega po plaży.",
+            "mt": "The dog runs along the beach.",
+            "COMET": 0.286376953125
+        },
+        {
+            "src": "Pies biega po plaży.",
+            "mt": "The dog runs on the beach.",
+            "COMET": -0.07525634765625
+        },
+        {
+            "src": "Pies biega po plaży.",
+            "mt": "The dog runs around the beach.",
+            "COMET": 0.2236328125
+        },
+        {
+            "src": "Pies biega po plaży.",
+            "mt": "The dog runs across the beach.",
+            "COMET": 0.20556640625
+        },
+        {
+            "src": "Pies biega po plaży.",
+            "mt": "The dog is running along the beach.",
+            "COMET": 0.2030029296875
+        },
+        {
+            "src": "Pies biega po plaży.",
+            "mt": "The dog runs down the beach.",
+            "COMET": -0.1099853515625
+        },
+        {
+            "src": "Pies biega po plaży.",
+            "mt": "The dog is running on the beach.",
+            "COMET": 0.0099945068359375
+        },
+        {
+            "src": "Pies biega po plaży.",
+            "mt": "The dog walks along the beach.",
+            "COMET": 0.28857421875
+        },
+        {
+            "src": "Pies biega po plaży.",
+            "mt": "The dog races along the beach.",
+            "COMET": -0.10992431640625
+        },
+        {
+            "src": "Pies biega po plaży.",
+            "mt": "The dog runs up the beach.",
+            "COMET": -0.3095703125
+        },
+        {
+            "src": "Kobieta kupuje buty.",
+            "mt": "A woman buys shoes.",
+            "COMET": 0.25048828125
+        },
+        {
+            "src": "Kobieta kupuje buty.",
+            "mt": "The woman buys shoes.",
+            "COMET": 0.0150146484375
+        },
+        {
+            "src": "Kobieta kupuje buty.",
+            "mt": "She buys shoes.",
+            "COMET": 0.037109375
+        },
+        {
+            "src": "Kobieta kupuje buty.",
+            "mt": "Woman buys shoes.",
+            "COMET": 0.2001953125
+        },
+        {
+            "src": "Kobieta kupuje buty.",
+            "mt": "The woman buys the shoes.",
+            "COMET": -0.021453857421875
+        },
+        {
+            "src": "Kobieta kupuje buty.",
+            "mt": "Women buy shoes.",
+            "COMET": 0.12103271484375
+        },
+        {
+            "src": "Kobieta kupuje buty.",
+            "mt": "The girl buys shoes.",
+            "COMET": 0.0809326171875
+        },
+        {
+            "src": "Kobieta kupuje buty.",
+            "mt": "A woman buys a shoes.",
+            "COMET": -0.1453857421875
+        },
+        {
+            "src": "Kobieta kupuje buty.",
+            "mt": "A woman bought shoes.",
+            "COMET": 0.12255859375
+        },
+        {
+            "src": "Kobieta kupuje buty.",
+            "mt": "The woman bought shoes.",
+            "COMET": 0.06622314453125
+        },
+        {
+            "src": "Mężczyzna czyta gazecę.",
+            "mt": "A man reads a newspaper.",
+            "COMET": 0.2188720703125
+        },
+        {
+            "src": "Mężczyzna czyta gazecę.",
+            "mt": "The man reads the newspaper.",
+            "COMET": 0.181640625
+        },
+        {
+            "src": "Mężczyzna czyta gazecę.",
+            "mt": "The man reads a newspaper.",
+            "COMET": 0.29443359375
+        },
+        {
+            "src": "Mężczyzna czyta gazecę.",
+            "mt": "A man reads the newspaper.",
+            "COMET": 0.1795654296875
+        },
+        {
+            "src": "Mężczyzna czyta gazecę.",
+            "mt": "The man reads the paper.",
+            "COMET": 0.2203369140625
+        },
+        {
+            "src": "Mężczyzna czyta gazecę.",
+            "mt": "A man read a newspaper.",
+            "COMET": 0.16552734375
+        },
+        {
+            "src": "Mężczyzna czyta gazecę.",
+            "mt": "A man reads a paper.",
+            "COMET": 0.2071533203125
+        },
+        {
+            "src": "Mężczyzna czyta gazecę.",
+            "mt": "A man is reading a newspaper.",
+            "COMET": 0.289794921875
+        },
+        {
+            "src": "Mężczyzna czyta gazecę.",
+            "mt": "The man read the newspaper.",
+            "COMET": 0.271728515625
+        },
+        {
+            "src": "Mężczyzna czyta gazecę.",
+            "mt": "He reads a newspaper.",
+            "COMET": 0.09112548828125
+        },
+        {
+            "src": "Dziecko gra z kotem.",
+            "mt": "The child plays with a cat.",
+            "COMET": 0.1319580078125
+        },
+        {
+            "src": "Dziecko gra z kotem.",
+            "mt": "The child plays with the cat.",
+            "COMET": 0.08544921875
+        },
+        {
+            "src": "Dziecko gra z kotem.",
+            "mt": "The kid plays with the cat.",
+            "COMET": 0.1021728515625
+        },
+        {
+            "src": "Dziecko gra z kotem.",
+            "mt": "The boy plays with a cat.",
+            "COMET": 0.1705322265625
+        },
+        {
+            "src": "Dziecko gra z kotem.",
+            "mt": "The boy plays with the cat.",
+            "COMET": 0.1182861328125
+        },
+        {
+            "src": "Dziecko gra z kotem.",
+            "mt": "A child plays with a cat.",
+            "COMET": 0.2088623046875
+        },
+        {
+            "src": "Dziecko gra z kotem.",
+            "mt": "The kid plays with a cat.",
+            "COMET": 0.2117919921875
+        },
+        {
+            "src": "Dziecko gra z kotem.",
+            "mt": "A kid plays with a cat.",
+            "COMET": 0.235595703125
+        },
+        {
+            "src": "Dziecko gra z kotem.",
+            "mt": "A boy plays with a cat.",
+            "COMET": 0.24755859375
+        },
+        {
+            "src": "Dziecko gra z kotem.",
+            "mt": "The child is playing with a cat.",
+            "COMET": 0.038055419921875
+        },
+        {
+            "src": "Samochód stoi na ulicy.",
+            "mt": "The car stands on the street.",
+            "COMET": 0.416015625
+        },
+        {
+            "src": "Samochód stoi na ulicy.",
+            "mt": "The car is standing on the street.",
+            "COMET": 0.1741943359375
+        },
+        {
+            "src": "Samochód stoi na ulicy.",
+            "mt": "The car is on the street.",
+            "COMET": 0.146484375
+        },
+        {
+            "src": "Samochód stoi na ulicy.",
+            "mt": "The car is standing in the street.",
+            "COMET": 0.062469482421875
+        },
+        {
+            "src": "Samochód stoi na ulicy.",
+            "mt": "The car stands in the street.",
+            "COMET": 0.28564453125
+        },
+        {
+            "src": "Samochód stoi na ulicy.",
+            "mt": "A car stands on the street.",
+            "COMET": 0.40673828125
+        },
+        {
+            "src": "Samochód stoi na ulicy.",
+            "mt": "The car is in the street.",
+            "COMET": -0.055633544921875
+        },
+        {
+            "src": "Samochód stoi na ulicy.",
+            "mt": "A car stands in the street.",
+            "COMET": 0.269775390625
+        },
+        {
+            "src": "Samochód stoi na ulicy.",
+            "mt": "A car is standing on the street.",
+            "COMET": 0.060089111328125
+        },
+        {
+            "src": "Samochód stoi na ulicy.",
+            "mt": "The car is on the road.",
+            "COMET": -0.1417236328125
+        },
+        {
+            "src": "Pies szuka karmy.",
+            "mt": "The dog is looking for food.",
+            "COMET": 0.402099609375
+        },
+        {
+            "src": "Pies szuka karmy.",
+            "mt": "The dog seeks food.",
+            "COMET": 0.5048828125
+        },
+        {
+            "src": "Pies szuka karmy.",
+            "mt": "The dog searches for food.",
+            "COMET": 0.323974609375
+        },
+        {
+            "src": "Pies szuka karmy.",
+            "mt": "The dog is searching for food.",
+            "COMET": 0.375
+        },
+        {
+            "src": "Pies szuka karmy.",
+            "mt": "The dog is looking for a food.",
+            "COMET": 0.3251953125
+        },
+        {
+            "src": "Pies szuka karmy.",
+            "mt": "The dog's looking for food.",
+            "COMET": 0.282470703125
+        },
+        {
+            "src": "Pies szuka karmy.",
+            "mt": "The dog looks for food.",
+            "COMET": 0.45166015625
+        },
+        {
+            "src": "Pies szuka karmy.",
+            "mt": "The dog is hunting for food.",
+            "COMET": 0.381103515625
+        },
+        {
+            "src": "Pies szuka karmy.",
+            "mt": "The dog is seeking food.",
+            "COMET": 0.423828125
+        },
+        {
+            "src": "Pies szuka karmy.",
+            "mt": "The dog is looking for a meal.",
+            "COMET": 0.285400390625
+        },
+        {
+            "src": "Kobieta rozmawia z rodzicami.",
+            "mt": "The woman talks to her parents.",
+            "COMET": 0.392822265625
+        },
+        {
+            "src": "Kobieta rozmawia z rodzicami.",
+            "mt": "A woman talks to her parents.",
+            "COMET": 0.385498046875
+        },
+        {
+            "src": "Kobieta rozmawia z rodzicami.",
+            "mt": "The woman is talking to her parents.",
+            "COMET": 0.27978515625
+        },
+        {
+            "src": "Kobieta rozmawia z rodzicami.",
+            "mt": "The woman talks with her parents.",
+            "COMET": 0.4736328125
+        },
+        {
+            "src": "Kobieta rozmawia z rodzicami.",
+            "mt": "She talks to her parents.",
+            "COMET": 0.240966796875
+        },
+        {
+            "src": "Kobieta rozmawia z rodzicami.",
+            "mt": "The woman speaks to her parents.",
+            "COMET": 0.22119140625
+        },
+        {
+            "src": "Kobieta rozmawia z rodzicami.",
+            "mt": "A woman speaks to her parents.",
+            "COMET": 0.2471923828125
+        },
+        {
+            "src": "Kobieta rozmawia z rodzicami.",
+            "mt": "The woman talks to the parents.",
+            "COMET": 0.2269287109375
+        },
+        {
+            "src": "Kobieta rozmawia z rodzicami.",
+            "mt": "The girl talks to her parents.",
+            "COMET": 0.42236328125
+        },
+        {
+            "src": "Kobieta rozmawia z rodzicami.",
+            "mt": "She talks with her parents.",
+            "COMET": 0.298095703125
+        },
+        {
+            "src": "Mężczyzna ogląda telewizję.",
+            "mt": "A man watches television.",
+            "COMET": 0.45947265625
+        },
+        {
+            "src": "Mężczyzna ogląda telewizję.",
+            "mt": "A man watches TV.",
+            "COMET": 0.38232421875
+        },
+        {
+            "src": "Mężczyzna ogląda telewizję.",
+            "mt": "The man watches television.",
+            "COMET": 0.477294921875
+        },
+        {
+            "src": "Mężczyzna ogląda telewizję.",
+            "mt": "The man watches TV.",
+            "COMET": 0.44580078125
+        },
+        {
+            "src": "Mężczyzna ogląda telewizję.",
+            "mt": "A man watches a television.",
+            "COMET": 0.410888671875
+        },
+        {
+            "src": "Mężczyzna ogląda telewizję.",
+            "mt": "The man watches the TV.",
+            "COMET": 0.233642578125
+        },
+        {
+            "src": "Mężczyzna ogląda telewizję.",
+            "mt": "The man watches the television.",
+            "COMET": 0.271728515625
+        },
+        {
+            "src": "Mężczyzna ogląda telewizję.",
+            "mt": "A man watches a TV.",
+            "COMET": 0.335693359375
+        },
+        {
+            "src": "Mężczyzna ogląda telewizję.",
+            "mt": "A man watches the TV.",
+            "COMET": 0.272216796875
+        },
+        {
+            "src": "Mężczyzna ogląda telewizję.",
+            "mt": "The man is watching TV.",
+            "COMET": 0.35546875
+        },
+        {
+            "src": "Dziecko uczy się języka angielskiego.",
+            "mt": "The child learns English.",
+            "COMET": 0.41845703125
+        },
+        {
+            "src": "Dziecko uczy się języka angielskiego.",
+            "mt": "The child is learning English.",
+            "COMET": 0.49267578125
+        },
+        {
+            "src": "Dziecko uczy się języka angielskiego.",
+            "mt": "The boy is learning English.",
+            "COMET": 0.49609375
+        },
+        {
+            "src": "Dziecko uczy się języka angielskiego.",
+            "mt": "The child will learn English.",
+            "COMET": 0.4404296875
+        },
+        {
+            "src": "Dziecko uczy się języka angielskiego.",
+            "mt": "The boy learns English.",
+            "COMET": 0.377197265625
+        },
+        {
+            "src": "Dziecko uczy się języka angielskiego.",
+            "mt": "A child learns English.",
+            "COMET": 0.296142578125
+        },
+        {
+            "src": "Dziecko uczy się języka angielskiego.",
+            "mt": "The children learn English.",
+            "COMET": 0.46630859375
+        },
+        {
+            "src": "Dziecko uczy się języka angielskiego.",
+            "mt": "The child is taught English.",
+            "COMET": 0.30859375
+        },
+        {
+            "src": "Dziecko uczy się języka angielskiego.",
+            "mt": "Children learn English.",
+            "COMET": 0.414306640625
+        },
+        {
+            "src": "Dziecko uczy się języka angielskiego.",
+            "mt": "The child learns the language.",
+            "COMET": 0.2705078125
+        },
+        {
+            "src": "Samochód jedzie do sklepu.",
+            "mt": "The car goes to the shop.",
+            "COMET": -0.35302734375
+        },
+        {
+            "src": "Samochód jedzie do sklepu.",
+            "mt": "The car goes to the store.",
+            "COMET": -0.2403564453125
+        },
+        {
+            "src": "Samochód jedzie do sklepu.",
+            "mt": "A car goes to the store.",
+            "COMET": -0.232177734375
+        },
+        {
+            "src": "Samochód jedzie do sklepu.",
+            "mt": "The car is going to the store.",
+            "COMET": -0.16015625
+        },
+        {
+            "src": "Samochód jedzie do sklepu.",
+            "mt": "A car goes to the shop.",
+            "COMET": -0.269775390625
+        },
+        {
+            "src": "Samochód jedzie do sklepu.",
+            "mt": "The car is going to the shop.",
+            "COMET": -0.346923828125
+        },
+        {
+            "src": "Samochód jedzie do sklepu.",
+            "mt": "The car goes to a shop.",
+            "COMET": -0.376220703125
+        },
+        {
+            "src": "Samochód jedzie do sklepu.",
+            "mt": "Car goes to the shop.",
+            "COMET": -0.44873046875
+        },
+        {
+            "src": "Samochód jedzie do sklepu.",
+            "mt": "Car goes to the store.",
+            "COMET": -0.421875
+        },
+        {
+            "src": "Samochód jedzie do sklepu.",
+            "mt": "The car goes to a store.",
+            "COMET": -0.2359619140625
+        },
+        {
+            "src": "Pies biega po parku.",
+            "mt": "The dog runs through the park.",
+            "COMET": 0.173095703125
+        },
+        {
+            "src": "Pies biega po parku.",
+            "mt": "The dog runs around the park.",
+            "COMET": 0.336669921875
+        },
+        {
+            "src": "Pies biega po parku.",
+            "mt": "The dog runs in the park.",
+            "COMET": 0.01216888427734375
+        },
+        {
+            "src": "Pies biega po parku.",
+            "mt": "The dog runs across the park.",
+            "COMET": 0.290283203125
+        },
+        {
+            "src": "Pies biega po parku.",
+            "mt": "The dog is running through the park.",
+            "COMET": 0.1363525390625
+        },
+        {
+            "src": "Pies biega po parku.",
+            "mt": "The dog is running around the park.",
+            "COMET": 0.244873046875
+        },
+        {
+            "src": "Pies biega po parku.",
+            "mt": "The dog is running in the park.",
+            "COMET": 0.0018892288208007812
+        },
+        {
+            "src": "Pies biega po parku.",
+            "mt": "The dog runs along the park.",
+            "COMET": 0.330078125
+        },
+        {
+            "src": "Pies biega po parku.",
+            "mt": "The dog runs the park.",
+            "COMET": -0.491943359375
+        },
+        {
+            "src": "Pies biega po parku.",
+            "mt": "The dog runs on the park.",
+            "COMET": -0.20703125
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki.",
+            "mt": "A woman buys cosmetics.",
+            "COMET": 0.480224609375
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki.",
+            "mt": "The woman buys cosmetics.",
+            "COMET": 0.41259765625
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki.",
+            "mt": "Women buy cosmetics.",
+            "COMET": 0.341796875
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki.",
+            "mt": "Woman buys cosmetics.",
+            "COMET": 0.46875
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki.",
+            "mt": "The woman buys the cosmetics.",
+            "COMET": 0.264892578125
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki.",
+            "mt": "She buys cosmetics.",
+            "COMET": 0.366943359375
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki.",
+            "mt": "A woman purchases cosmetics.",
+            "COMET": 0.43408203125
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki.",
+            "mt": "The woman purchases cosmetics.",
+            "COMET": 0.42333984375
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki.",
+            "mt": "A woman buys her cosmetics.",
+            "COMET": 0.08172607421875
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki.",
+            "mt": "A woman buys a cosmetic.",
+            "COMET": 0.08123779296875
+        },
+        {
+            "src": "Mężczyzna czyta książkę historyczną.",
+            "mt": "A man reads a history book.",
+            "COMET": 0.339599609375
+        },
+        {
+            "src": "Mężczyzna czyta książkę historyczną.",
+            "mt": "The man reads a history book.",
+            "COMET": 0.25830078125
+        },
+        {
+            "src": "Mężczyzna czyta książkę historyczną.",
+            "mt": "A man reads a historical book.",
+            "COMET": 0.40673828125
+        },
+        {
+            "src": "Mężczyzna czyta książkę historyczną.",
+            "mt": "The man reads a historical book.",
+            "COMET": 0.340087890625
+        },
+        {
+            "src": "Mężczyzna czyta książkę historyczną.",
+            "mt": "A man reads a book of history.",
+            "COMET": 0.2281494140625
+        },
+        {
+            "src": "Mężczyzna czyta książkę historyczną.",
+            "mt": "The man reads a book of history.",
+            "COMET": 0.197998046875
+        },
+        {
+            "src": "Mężczyzna czyta książkę historyczną.",
+            "mt": "He reads a history book.",
+            "COMET": 0.060577392578125
+        },
+        {
+            "src": "Mężczyzna czyta książkę historyczną.",
+            "mt": "A man reads an historical book.",
+            "COMET": 0.40771484375
+        },
+        {
+            "src": "Mężczyzna czyta książkę historyczną.",
+            "mt": "The man reads an historical book.",
+            "COMET": 0.354736328125
+        },
+        {
+            "src": "Mężczyzna czyta książkę historyczną.",
+            "mt": "The man is reading a history book.",
+            "COMET": 0.3232421875
+        },
+        {
+            "src": "Dziecko gra z przyjaciółmi.",
+            "mt": "The child plays with friends.",
+            "COMET": 0.395751953125
+        },
+        {
+            "src": "Dziecko gra z przyjaciółmi.",
+            "mt": "The child plays with his friends.",
+            "COMET": 0.4921875
+        },
+        {
+            "src": "Dziecko gra z przyjaciółmi.",
+            "mt": "The boy plays with his friends.",
+            "COMET": 0.5087890625
+        },
+        {
+            "src": "Dziecko gra z przyjaciółmi.",
+            "mt": "A child plays with friends.",
+            "COMET": 0.441162109375
+        },
+        {
+            "src": "Dziecko gra z przyjaciółmi.",
+            "mt": "The boy plays with friends.",
+            "COMET": 0.48046875
+        },
+        {
+            "src": "Dziecko gra z przyjaciółmi.",
+            "mt": "A child plays with his friends.",
+            "COMET": 0.533203125
+        },
+        {
+            "src": "Dziecko gra z przyjaciółmi.",
+            "mt": "The child is playing with friends.",
+            "COMET": 0.39990234375
+        },
+        {
+            "src": "Dziecko gra z przyjaciółmi.",
+            "mt": "The child is playing with his friends.",
+            "COMET": 0.47509765625
+        },
+        {
+            "src": "Dziecko gra z przyjaciółmi.",
+            "mt": "The kid plays with friends.",
+            "COMET": 0.47314453125
+        },
+        {
+            "src": "Dziecko gra z przyjaciółmi.",
+            "mt": "Child plays with friends.",
+            "COMET": 0.4716796875
+        },
+        {
+            "src": "Pies szuka domu swojego.",
+            "mt": "The dog is looking for his home.",
+            "COMET": 0.41064453125
+        },
+        {
+            "src": "Pies szuka domu swojego.",
+            "mt": "The dog is searching for his home.",
+            "COMET": 0.306640625
+        },
+        {
+            "src": "Pies szuka domu swojego.",
+            "mt": "The dog is looking for his house.",
+            "COMET": 0.2301025390625
+        },
+        {
+            "src": "Pies szuka domu swojego.",
+            "mt": "The dog searches for his home.",
+            "COMET": 0.234375
+        },
+        {
+            "src": "Pies szuka domu swojego.",
+            "mt": "The dog seeks his home.",
+            "COMET": 0.431884765625
+        },
+        {
+            "src": "Pies szuka domu swojego.",
+            "mt": "The dog is looking for a home.",
+            "COMET": 0.4052734375
+        },
+        {
+            "src": "Pies szuka domu swojego.",
+            "mt": "The dog is looking for its home.",
+            "COMET": 0.334228515625
+        },
+        {
+            "src": "Pies szuka domu swojego.",
+            "mt": "The dog is looking for her home.",
+            "COMET": -0.038238525390625
+        },
+        {
+            "src": "Pies szuka domu swojego.",
+            "mt": "The dog finds his home.",
+            "COMET": 0.302734375
+        },
+        {
+            "src": "Pies szuka domu swojego.",
+            "mt": "The dog is looking for his own home.",
+            "COMET": 0.435791015625
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą.",
+            "mt": "A woman talks to a colleague.",
+            "COMET": 0.428955078125
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą.",
+            "mt": "The woman talks to her colleague.",
+            "COMET": 0.39111328125
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą.",
+            "mt": "The woman talks to a colleague.",
+            "COMET": 0.35400390625
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą.",
+            "mt": "The woman is talking to a colleague.",
+            "COMET": 0.296875
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą.",
+            "mt": "The woman is talking to her colleague.",
+            "COMET": 0.32861328125
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą.",
+            "mt": "A woman talks to her colleague.",
+            "COMET": 0.38330078125
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą.",
+            "mt": "The woman talks with her colleague.",
+            "COMET": 0.460693359375
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą.",
+            "mt": "A woman talks to a friend.",
+            "COMET": 0.33349609375
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą.",
+            "mt": "The woman talks to her friend.",
+            "COMET": 0.36962890625
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą.",
+            "mt": "The woman talks to a friend.",
+            "COMET": 0.315673828125
+        },
+        {
+            "src": "Mężczyzna ogląda film dokumentalny.",
+            "mt": "A man watches a documentary.",
+            "COMET": 0.485595703125
+        },
+        {
+            "src": "Mężczyzna ogląda film dokumentalny.",
+            "mt": "A man watches a documentary film.",
+            "COMET": 0.57958984375
+        },
+        {
+            "src": "Mężczyzna ogląda film dokumentalny.",
+            "mt": "The man watches a documentary film.",
+            "COMET": 0.51220703125
+        },
+        {
+            "src": "Mężczyzna ogląda film dokumentalny.",
+            "mt": "The man watches a documentary.",
+            "COMET": 0.4482421875
+        },
+        {
+            "src": "Mężczyzna ogląda film dokumentalny.",
+            "mt": "The man is watching a documentary film.",
+            "COMET": 0.447998046875
+        },
+        {
+            "src": "Mężczyzna ogląda film dokumentalny.",
+            "mt": "A man watches a documentary movie.",
+            "COMET": 0.544921875
+        },
+        {
+            "src": "Mężczyzna ogląda film dokumentalny.",
+            "mt": "A man is watching a documentary film.",
+            "COMET": 0.5224609375
+        },
+        {
+            "src": "Mężczyzna ogląda film dokumentalny.",
+            "mt": "The man is watching a documentary.",
+            "COMET": 0.388671875
+        },
+        {
+            "src": "Mężczyzna ogląda film dokumentalny.",
+            "mt": "A man is watching a documentary.",
+            "COMET": 0.45361328125
+        },
+        {
+            "src": "Mężczyzna ogląda film dokumentalny.",
+            "mt": "A male watches a documentary.",
+            "COMET": 0.366943359375
+        },
+        {
+            "src": "Dziecko uczy się języka niemieckiego.",
+            "mt": "The child learns German.",
+            "COMET": 0.4267578125
+        },
+        {
+            "src": "Dziecko uczy się języka niemieckiego.",
+            "mt": "The child is learning German.",
+            "COMET": 0.505859375
+        },
+        {
+            "src": "Dziecko uczy się języka niemieckiego.",
+            "mt": "The boy is learning German.",
+            "COMET": 0.5234375
+        },
+        {
+            "src": "Dziecko uczy się języka niemieckiego.",
+            "mt": "The child will learn German.",
+            "COMET": 0.443359375
+        },
+        {
+            "src": "Dziecko uczy się języka niemieckiego.",
+            "mt": "The boy learns German.",
+            "COMET": 0.399658203125
+        },
+        {
+            "src": "Dziecko uczy się języka niemieckiego.",
+            "mt": "The children learn German.",
+            "COMET": 0.4912109375
+        },
+        {
+            "src": "Dziecko uczy się języka niemieckiego.",
+            "mt": "The child studies German.",
+            "COMET": 0.1636962890625
+        },
+        {
+            "src": "Dziecko uczy się języka niemieckiego.",
+            "mt": "He learns German.",
+            "COMET": 0.149658203125
+        },
+        {
+            "src": "Dziecko uczy się języka niemieckiego.",
+            "mt": "The child is learning the German.",
+            "COMET": 0.33984375
+        },
+        {
+            "src": "Dziecko uczy się języka niemieckiego.",
+            "mt": "The child learns the German.",
+            "COMET": 0.136962890625
+        },
+        {
+            "src": "Samochód jedzie do restauracji.",
+            "mt": "The car goes to the restaurant.",
+            "COMET": -0.1309814453125
+        },
+        {
+            "src": "Samochód jedzie do restauracji.",
+            "mt": "The car goes to a restaurant.",
+            "COMET": -0.074951171875
+        },
+        {
+            "src": "Samochód jedzie do restauracji.",
+            "mt": "The car is going to the restaurant.",
+            "COMET": -0.0241851806640625
+        },
+        {
+            "src": "Samochód jedzie do restauracji.",
+            "mt": "A car goes to a restaurant.",
+            "COMET": -0.350830078125
+        },
+        {
+            "src": "Samochód jedzie do restauracji.",
+            "mt": "A car goes to the restaurant.",
+            "COMET": -0.10107421875
+        },
+        {
+            "src": "Samochód jedzie do restauracji.",
+            "mt": "Car goes to the restaurant.",
+            "COMET": -0.298583984375
+        },
+        {
+            "src": "Samochód jedzie do restauracji.",
+            "mt": "The car drives to the restaurant.",
+            "COMET": 0.1610107421875
+        },
+        {
+            "src": "Samochód jedzie do restauracji.",
+            "mt": "The car is going to a restaurant.",
+            "COMET": 0.01322174072265625
+        },
+        {
+            "src": "Samochód jedzie do restauracji.",
+            "mt": "The car rides to the restaurant.",
+            "COMET": -0.136474609375
+        },
+        {
+            "src": "Samochód jedzie do restauracji.",
+            "mt": "Car goes to a restaurant.",
+            "COMET": -0.34033203125
+        },
+        {
+            "src": "Pies biega po plaży wakacyjnej.",
+            "mt": "The dog runs on the waking beach.",
+            "COMET": -0.2296142578125
+        },
+        {
+            "src": "Pies biega po plaży wakacyjnej.",
+            "mt": "The dog runs along the waking beach.",
+            "COMET": -0.0049591064453125
+        },
+        {
+            "src": "Pies biega po plaży wakacyjnej.",
+            "mt": "The dog runs around the waking beach.",
+            "COMET": -0.004909515380859375
+        },
+        {
+            "src": "Pies biega po plaży wakacyjnej.",
+            "mt": "The dog runs across the waking beach.",
+            "COMET": -0.045989990234375
+        },
+        {
+            "src": "Pies biega po plaży wakacyjnej.",
+            "mt": "The dog runs on a waking beach.",
+            "COMET": -0.271484375
+        },
+        {
+            "src": "Pies biega po plaży wakacyjnej.",
+            "mt": "The dog is running on the waking beach.",
+            "COMET": -0.24853515625
+        },
+        {
+            "src": "Pies biega po plaży wakacyjnej.",
+            "mt": "The dog races along the waking beach.",
+            "COMET": -0.0298614501953125
+        },
+        {
+            "src": "Pies biega po plaży wakacyjnej.",
+            "mt": "The dog runs on the wave beach.",
+            "COMET": -0.173095703125
+        },
+        {
+            "src": "Pies biega po plaży wakacyjnej.",
+            "mt": "The dog runs down the waking beach.",
+            "COMET": -0.2861328125
+        },
+        {
+            "src": "Pies biega po plaży wakacyjnej.",
+            "mt": "The dog runs along the wave beach.",
+            "COMET": -0.0799560546875
+        },
+        {
+            "src": "Kobieta kupuje ubrania.",
+            "mt": "A woman buys clothes.",
+            "COMET": 0.44482421875
+        },
+        {
+            "src": "Kobieta kupuje ubrania.",
+            "mt": "The woman buys clothes.",
+            "COMET": 0.2425537109375
+        },
+        {
+            "src": "Kobieta kupuje ubrania.",
+            "mt": "She buys clothes.",
+            "COMET": 0.280029296875
+        },
+        {
+            "src": "Kobieta kupuje ubrania.",
+            "mt": "Woman buys clothes.",
+            "COMET": 0.38427734375
+        },
+        {
+            "src": "Kobieta kupuje ubrania.",
+            "mt": "The girl buys clothes.",
+            "COMET": 0.2783203125
+        },
+        {
+            "src": "Kobieta kupuje ubrania.",
+            "mt": "A woman buys clothing.",
+            "COMET": 0.418701171875
+        },
+        {
+            "src": "Kobieta kupuje ubrania.",
+            "mt": "The woman buys clothing.",
+            "COMET": 0.1954345703125
+        },
+        {
+            "src": "Kobieta kupuje ubrania.",
+            "mt": "The woman purchases clothes.",
+            "COMET": 0.1898193359375
+        },
+        {
+            "src": "Kobieta kupuje ubrania.",
+            "mt": "Women buy clothes.",
+            "COMET": 0.34619140625
+        },
+        {
+            "src": "Kobieta kupuje ubrania.",
+            "mt": "He buys clothes.",
+            "COMET": 0.0399169921875
+        },
+        {
+            "src": "Mężczyzna czyta książkę naukową.",
+            "mt": "A man reads a scientific book.",
+            "COMET": 0.41455078125
+        },
+        {
+            "src": "Mężczyzna czyta książkę naukową.",
+            "mt": "The man reads a scientific book.",
+            "COMET": 0.3798828125
+        },
+        {
+            "src": "Mężczyzna czyta książkę naukową.",
+            "mt": "A man reads a science book.",
+            "COMET": 0.349365234375
+        },
+        {
+            "src": "Mężczyzna czyta książkę naukową.",
+            "mt": "The man reads a science book.",
+            "COMET": 0.318603515625
+        },
+        {
+            "src": "Mężczyzna czyta książkę naukową.",
+            "mt": "A man reads a book.",
+            "COMET": 0.229736328125
+        },
+        {
+            "src": "Mężczyzna czyta książkę naukową.",
+            "mt": "The man reads a book.",
+            "COMET": 0.31103515625
+        },
+        {
+            "src": "Mężczyzna czyta książkę naukową.",
+            "mt": "The man is reading a scientific book.",
+            "COMET": 0.439453125
+        },
+        {
+            "src": "Mężczyzna czyta książkę naukową.",
+            "mt": "He reads a scientific book.",
+            "COMET": 0.1527099609375
+        },
+        {
+            "src": "Mężczyzna czyta książkę naukową.",
+            "mt": "The man read a scientific book.",
+            "COMET": 0.3759765625
+        },
+        {
+            "src": "Mężczyzna czyta książkę naukową.",
+            "mt": "He reads a book.",
+            "COMET": 0.0029239654541015625
+        },
+        {
+            "src": "Dziecko gra z rodzeństwem.",
+            "mt": "The child plays with the siblings.",
+            "COMET": 0.435791015625
+        },
+        {
+            "src": "Dziecko gra z rodzeństwem.",
+            "mt": "The child plays with his siblings.",
+            "COMET": 0.490478515625
+        },
+        {
+            "src": "Dziecko gra z rodzeństwem.",
+            "mt": "A child plays with his siblings.",
+            "COMET": 0.5185546875
+        },
+        {
+            "src": "Dziecko gra z rodzeństwem.",
+            "mt": "The boy plays with his siblings.",
+            "COMET": 0.49853515625
+        },
+        {
+            "src": "Dziecko gra z rodzeństwem.",
+            "mt": "A child plays with the siblings.",
+            "COMET": 0.50927734375
+        },
+        {
+            "src": "Dziecko gra z rodzeństwem.",
+            "mt": "A child plays with a sibling.",
+            "COMET": 0.402099609375
+        },
+        {
+            "src": "Dziecko gra z rodzeństwem.",
+            "mt": "The child is playing with his siblings.",
+            "COMET": 0.483154296875
+        },
+        {
+            "src": "Dziecko gra z rodzeństwem.",
+            "mt": "The child plays with a sibling.",
+            "COMET": 0.365478515625
+        },
+        {
+            "src": "Dziecko gra z rodzeństwem.",
+            "mt": "Children play with siblings.",
+            "COMET": 0.42529296875
+        },
+        {
+            "src": "Dziecko gra z rodzeństwem.",
+            "mt": "The child plays with the sibling.",
+            "COMET": 0.41015625
+        },
+        {
+            "src": "Samochód stoi na ulicy głównej.",
+            "mt": "The car stands on the main street.",
+            "COMET": 0.4052734375
+        },
+        {
+            "src": "Samochód stoi na ulicy głównej.",
+            "mt": "The car is on the main street.",
+            "COMET": -0.0216217041015625
+        },
+        {
+            "src": "Samochód stoi na ulicy głównej.",
+            "mt": "The car is standing on the main street.",
+            "COMET": 0.13818359375
+        },
+        {
+            "src": "Samochód stoi na ulicy głównej.",
+            "mt": "The car is located on the main street.",
+            "COMET": 0.32177734375
+        },
+        {
+            "src": "Samochód stoi na ulicy głównej.",
+            "mt": "The car sits on the main street.",
+            "COMET": 0.1522216796875
+        },
+        {
+            "src": "Samochód stoi na ulicy głównej.",
+            "mt": "The car stands in the main street.",
+            "COMET": 0.1988525390625
+        },
+        {
+            "src": "Samochód stoi na ulicy głównej.",
+            "mt": "The car stands on the main road.",
+            "COMET": 0.339111328125
+        },
+        {
+            "src": "Samochód stoi na ulicy głównej.",
+            "mt": "The car is on the main road.",
+            "COMET": -0.05352783203125
+        },
+        {
+            "src": "Samochód stoi na ulicy głównej.",
+            "mt": "The car is standing in the main street.",
+            "COMET": 0.07861328125
+        },
+        {
+            "src": "Samochód stoi na ulicy głównej.",
+            "mt": "The car is in the main street.",
+            "COMET": -0.2088623046875
+        },
+        {
+            "src": "Pies szuka karmy dla psa.",
+            "mt": "The dog is looking for a dog feed.",
+            "COMET": 0.1363525390625
+        },
+        {
+            "src": "Pies szuka karmy dla psa.",
+            "mt": "Dog looking for food for dog.",
+            "COMET": 0.00539398193359375
+        },
+        {
+            "src": "Pies szuka karmy dla psa.",
+            "mt": "The dog is looking for dog feed.",
+            "COMET": 0.1998291015625
+        },
+        {
+            "src": "Pies szuka karmy dla psa.",
+            "mt": "The dog is looking for dog food.",
+            "COMET": 0.222900390625
+        },
+        {
+            "src": "Pies szuka karmy dla psa.",
+            "mt": "Dog looking for feed for dog.",
+            "COMET": -0.052398681640625
+        },
+        {
+            "src": "Pies szuka karmy dla psa.",
+            "mt": "Dog looking for dog feed.",
+            "COMET": 0.2978515625
+        },
+        {
+            "src": "Pies szuka karmy dla psa.",
+            "mt": "Dog is looking for food for dog.",
+            "COMET": -0.11907958984375
+        },
+        {
+            "src": "Pies szuka karmy dla psa.",
+            "mt": "The dog is looking for food for dog.",
+            "COMET": -0.243408203125
+        },
+        {
+            "src": "Pies szuka karmy dla psa.",
+            "mt": "Dog looking for dog food.",
+            "COMET": 0.340576171875
+        },
+        {
+            "src": "Pies szuka karmy dla psa.",
+            "mt": "Dog is looking for dog feed.",
+            "COMET": 0.17431640625
+        },
+        {
+            "src": "Kobieta rozmawia z przyjaciółką.",
+            "mt": "A woman talks to a friend.",
+            "COMET": 0.3251953125
+        },
+        {
+            "src": "Kobieta rozmawia z przyjaciółką.",
+            "mt": "The woman talks to a friend.",
+            "COMET": 0.30810546875
+        },
+        {
+            "src": "Kobieta rozmawia z przyjaciółką.",
+            "mt": "The woman is talking to a friend.",
+            "COMET": 0.287841796875
+        },
+        {
+            "src": "Kobieta rozmawia z przyjaciółką.",
+            "mt": "The woman talks to her friend.",
+            "COMET": 0.404541015625
+        },
+        {
+            "src": "Kobieta rozmawia z przyjaciółką.",
+            "mt": "She talks to a friend.",
+            "COMET": 0.15771484375
+        },
+        {
+            "src": "Kobieta rozmawia z przyjaciółką.",
+            "mt": "A woman is talking to a friend.",
+            "COMET": 0.30322265625
+        },
+        {
+            "src": "Kobieta rozmawia z przyjaciółką.",
+            "mt": "A woman talks to her friend.",
+            "COMET": 0.372314453125
+        },
+        {
+            "src": "Kobieta rozmawia z przyjaciółką.",
+            "mt": "The woman is talking to her friend.",
+            "COMET": 0.326904296875
+        },
+        {
+            "src": "Kobieta rozmawia z przyjaciółką.",
+            "mt": "The woman talks with a friend.",
+            "COMET": 0.446533203125
+        },
+        {
+            "src": "Kobieta rozmawia z przyjaciółką.",
+            "mt": "The girl talks to a friend.",
+            "COMET": 0.337646484375
+        },
+        {
+            "src": "Mężczyzna ogląda film akcji.",
+            "mt": "A man watches an action film.",
+            "COMET": 0.493408203125
+        },
+        {
+            "src": "Mężczyzna ogląda film akcji.",
+            "mt": "A man watches an action movie.",
+            "COMET": 0.428955078125
+        },
+        {
+            "src": "Mężczyzna ogląda film akcji.",
+            "mt": "The man watches an action film.",
+            "COMET": 0.5048828125
+        },
+        {
+            "src": "Mężczyzna ogląda film akcji.",
+            "mt": "A man watches a movie of action.",
+            "COMET": 0.395263671875
+        },
+        {
+            "src": "Mężczyzna ogląda film akcji.",
+            "mt": "The man watches an action movie.",
+            "COMET": 0.448486328125
+        },
+        {
+            "src": "Mężczyzna ogląda film akcji.",
+            "mt": "A man watches a film of action.",
+            "COMET": 0.4453125
+        },
+        {
+            "src": "Mężczyzna ogląda film akcji.",
+            "mt": "A man is watching an action film.",
+            "COMET": 0.44140625
+        },
+        {
+            "src": "Mężczyzna ogląda film akcji.",
+            "mt": "The man watches the action film.",
+            "COMET": 0.3642578125
+        },
+        {
+            "src": "Mężczyzna ogląda film akcji.",
+            "mt": "A man watches an action video.",
+            "COMET": 0.37158203125
+        },
+        {
+            "src": "Mężczyzna ogląda film akcji.",
+            "mt": "A man watching an action film.",
+            "COMET": 0.430419921875
+        },
+        {
+            "src": "Dziecko uczy się języka francuskiego.",
+            "mt": "The child learns French.",
+            "COMET": 0.34619140625
+        },
+        {
+            "src": "Dziecko uczy się języka francuskiego.",
+            "mt": "The child is learning French.",
+            "COMET": 0.460205078125
+        },
+        {
+            "src": "Dziecko uczy się języka francuskiego.",
+            "mt": "The boy learns French.",
+            "COMET": 0.33154296875
+        },
+        {
+            "src": "Dziecko uczy się języka francuskiego.",
+            "mt": "The boy is learning French.",
+            "COMET": 0.474853515625
+        },
+        {
+            "src": "Dziecko uczy się języka francuskiego.",
+            "mt": "The child is taught French.",
+            "COMET": 0.21533203125
+        },
+        {
+            "src": "Dziecko uczy się języka francuskiego.",
+            "mt": "The children learn French.",
+            "COMET": 0.425048828125
+        },
+        {
+            "src": "Dziecko uczy się języka francuskiego.",
+            "mt": "He learns French.",
+            "COMET": 0.11480712890625
+        },
+        {
+            "src": "Dziecko uczy się języka francuskiego.",
+            "mt": "The child studies French.",
+            "COMET": 0.03240966796875
+        },
+        {
+            "src": "Dziecko uczy się języka francuskiego.",
+            "mt": "The child learns French language.",
+            "COMET": 0.455078125
+        },
+        {
+            "src": "Dziecko uczy się języka francuskiego.",
+            "mt": "The child learns the French.",
+            "COMET": 0.1260986328125
+        },
+        {
+            "src": "Samochód jedzie do muzeum.",
+            "mt": "The car goes to the museum.",
+            "COMET": -0.026031494140625
+        },
+        {
+            "src": "Samochód jedzie do muzeum.",
+            "mt": "A car goes to the museum.",
+            "COMET": -0.10882568359375
+        },
+        {
+            "src": "Samochód jedzie do muzeum.",
+            "mt": "The car is going to the museum.",
+            "COMET": 0.09527587890625
+        },
+        {
+            "src": "Samochód jedzie do muzeum.",
+            "mt": "The car goes to a museum.",
+            "COMET": -0.050537109375
+        },
+        {
+            "src": "Samochód jedzie do muzeum.",
+            "mt": "A car goes to a museum.",
+            "COMET": -0.335693359375
+        },
+        {
+            "src": "Samochód jedzie do muzeum.",
+            "mt": "Car goes to the museum.",
+            "COMET": -0.2841796875
+        },
+        {
+            "src": "Samochód jedzie do muzeum.",
+            "mt": "The car rides to the museum.",
+            "COMET": -0.040496826171875
+        },
+        {
+            "src": "Samochód jedzie do muzeum.",
+            "mt": "The car drives to the museum.",
+            "COMET": 0.1787109375
+        },
+        {
+            "src": "Samochód jedzie do muzeum.",
+            "mt": "The car goes to the Museum.",
+            "COMET": -0.032196044921875
+        },
+        {
+            "src": "Samochód jedzie do muzeum.",
+            "mt": "The car goes to museum.",
+            "COMET": 0.0906982421875
+        },
+        {
+            "src": "Pies biega po parku wiosennym.",
+            "mt": "The dog runs through the spring park.",
+            "COMET": -0.2117919921875
+        },
+        {
+            "src": "Pies biega po parku wiosennym.",
+            "mt": "The dog runs around the spring park.",
+            "COMET": -0.02215576171875
+        },
+        {
+            "src": "Pies biega po parku wiosennym.",
+            "mt": "The dog runs in the spring park.",
+            "COMET": -0.1986083984375
+        },
+        {
+            "src": "Pies biega po parku wiosennym.",
+            "mt": "The dog runs through a spring park.",
+            "COMET": -0.413330078125
+        },
+        {
+            "src": "Pies biega po parku wiosennym.",
+            "mt": "The dog races through the spring park.",
+            "COMET": -0.052154541015625
+        },
+        {
+            "src": "Pies biega po parku wiosennym.",
+            "mt": "The dog runs on the spring park.",
+            "COMET": -0.406005859375
+        },
+        {
+            "src": "Pies biega po parku wiosennym.",
+            "mt": "The dog runs through the Spring Park.",
+            "COMET": -0.385009765625
+        },
+        {
+            "src": "Pies biega po parku wiosennym.",
+            "mt": "The dog runs along the spring park.",
+            "COMET": -0.05389404296875
+        },
+        {
+            "src": "Pies biega po parku wiosennym.",
+            "mt": "The dog runs across the spring park.",
+            "COMET": -0.098388671875
+        },
+        {
+            "src": "Pies biega po parku wiosennym.",
+            "mt": "The dog runs the spring park.",
+            "COMET": -0.59521484375
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki dla ciała.",
+            "mt": "A woman buys cosmetics for her body.",
+            "COMET": 0.41259765625
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki dla ciała.",
+            "mt": "The woman buys cosmetics for the body.",
+            "COMET": 0.5263671875
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki dla ciała.",
+            "mt": "The woman buys cosmetics for her body.",
+            "COMET": 0.450927734375
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki dla ciała.",
+            "mt": "A woman buys cosmetics for the body.",
+            "COMET": 0.55615234375
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki dla ciała.",
+            "mt": "A woman buys body cosmetics.",
+            "COMET": 0.361572265625
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki dla ciała.",
+            "mt": "Women buy cosmetics for the body.",
+            "COMET": 0.58935546875
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki dla ciała.",
+            "mt": "The woman buys body cosmetics.",
+            "COMET": 0.349853515625
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki dla ciała.",
+            "mt": "A woman purchases cosmetics for her body.",
+            "COMET": 0.4423828125
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki dla ciała.",
+            "mt": "She buys cosmetics for her body.",
+            "COMET": 0.400390625
+        },
+        {
+            "src": "Kobieta kupuje kosmetyki dla ciała.",
+            "mt": "Woman buys cosmetics for the body.",
+            "COMET": 0.533203125
+        },
+        {
+            "src": "Mężczyzna czyta książkę faktu.",
+            "mt": "A man reads a book of fact.",
+            "COMET": -0.07684326171875
+        },
+        {
+            "src": "Mężczyzna czyta książkę faktu.",
+            "mt": "The man reads a book of fact.",
+            "COMET": -0.02935791015625
+        },
+        {
+            "src": "Mężczyzna czyta książkę faktu.",
+            "mt": "The man reads the book of fact.",
+            "COMET": -0.103515625
+        },
+        {
+            "src": "Mężczyzna czyta książkę faktu.",
+            "mt": "He reads a book of facts.",
+            "COMET": -0.21484375
+        },
+        {
+            "src": "Mężczyzna czyta książkę faktu.",
+            "mt": "The man is reading a book of fact.",
+            "COMET": -0.023590087890625
+        },
+        {
+            "src": "Mężczyzna czyta książkę faktu.",
+            "mt": "A man reads the book of fact.",
+            "COMET": -0.1021728515625
+        },
+        {
+            "src": "Mężczyzna czyta książkę faktu.",
+            "mt": "A man reads a fact book.",
+            "COMET": 0.1597900390625
+        },
+        {
+            "src": "Mężczyzna czyta książkę faktu.",
+            "mt": "The man reads a fact book.",
+            "COMET": 0.1219482421875
+        },
+        {
+            "src": "Mężczyzna czyta książkę faktu.",
+            "mt": "A man is reading a book of fact.",
+            "COMET": 0.01204681396484375
+        },
+        {
+            "src": "Mężczyzna czyta książkę faktu.",
+            "mt": "He reads a book of fact.",
+            "COMET": -0.253173828125
+        },
+        {
+            "src": "Dziecko gra z przyjacielem ze szkoły.",
+            "mt": "The child plays with a friend from school.",
+            "COMET": 0.4189453125
+        },
+        {
+            "src": "Dziecko gra z przyjacielem ze szkoły.",
+            "mt": "The child plays with a friend from the school.",
+            "COMET": 0.26123046875
+        },
+        {
+            "src": "Dziecko gra z przyjacielem ze szkoły.",
+            "mt": "A child plays with a friend from school.",
+            "COMET": 0.425537109375
+        },
+        {
+            "src": "Dziecko gra z przyjacielem ze szkoły.",
+            "mt": "The boy plays with a friend from school.",
+            "COMET": 0.426025390625
+        },
+        {
+            "src": "Dziecko gra z przyjacielem ze szkoły.",
+            "mt": "A child plays with a friend from the school.",
+            "COMET": 0.30322265625
+        },
+        {
+            "src": "Dziecko gra z przyjacielem ze szkoły.",
+            "mt": "The boy plays with a friend from the school.",
+            "COMET": 0.28564453125
+        },
+        {
+            "src": "Dziecko gra z przyjacielem ze szkoły.",
+            "mt": "The kid plays with a friend from school.",
+            "COMET": 0.483642578125
+        },
+        {
+            "src": "Dziecko gra z przyjacielem ze szkoły.",
+            "mt": "A boy plays with a friend from school.",
+            "COMET": 0.396484375
+        },
+        {
+            "src": "Dziecko gra z przyjacielem ze szkoły.",
+            "mt": "The child is playing with a friend from school.",
+            "COMET": 0.435791015625
+        },
+        {
+            "src": "Dziecko gra z przyjacielem ze szkoły.",
+            "mt": "The child plays with a school friend.",
+            "COMET": 0.36376953125
+        },
+        {
+            "src": "Samochód stoi na parkingu przed domem.",
+            "mt": "The car is parked in front of the house.",
+            "COMET": 0.416748046875
+        },
+        {
+            "src": "Samochód stoi na parkingu przed domem.",
+            "mt": "The car stands in the parking lot in front of the house.",
+            "COMET": 0.346435546875
+        },
+        {
+            "src": "Samochód stoi na parkingu przed domem.",
+            "mt": "The car is in the parking lot in front of the house.",
+            "COMET": 0.347412109375
+        },
+        {
+            "src": "Samochód stoi na parkingu przed domem.",
+            "mt": "The car stands in a parking lot in front of the house.",
+            "COMET": 0.410888671875
+        },
+        {
+            "src": "Samochód stoi na parkingu przed domem.",
+            "mt": "The car is in a parking lot in front of the house.",
+            "COMET": 0.404296875
+        },
+        {
+            "src": "Samochód stoi na parkingu przed domem.",
+            "mt": "The car stands in the car park in front of the house.",
+            "COMET": 0.1787109375
+        },
+        {
+            "src": "Samochód stoi na parkingu przed domem.",
+            "mt": "The car stands on the parking lot in front of the house.",
+            "COMET": 0.442626953125
+        },
+        {
+            "src": "Samochód stoi na parkingu przed domem.",
+            "mt": "A car stands in the parking lot in front of the house.",
+            "COMET": 0.38916015625
+        },
+        {
+            "src": "Samochód stoi na parkingu przed domem.",
+            "mt": "The car stands in front of the house.",
+            "COMET": 0.200439453125
+        },
+        {
+            "src": "Samochód stoi na parkingu przed domem.",
+            "mt": "The car is in front of the house.",
+            "COMET": -0.0208740234375
+        },
+        {
+            "src": "Pies szuka domu swojego w mieście.",
+            "mt": "The dog is looking for a home in the city.",
+            "COMET": 0.343994140625
+        },
+        {
+            "src": "Pies szuka domu swojego w mieście.",
+            "mt": "The dog is looking for his home in the city.",
+            "COMET": 0.3564453125
+        },
+        {
+            "src": "Pies szuka domu swojego w mieście.",
+            "mt": "The dog is looking for his home in town.",
+            "COMET": 0.366943359375
+        },
+        {
+            "src": "Pies szuka domu swojego w mieście.",
+            "mt": "The dog is looking for its home in the city.",
+            "COMET": 0.29833984375
+        },
+        {
+            "src": "Pies szuka domu swojego w mieście.",
+            "mt": "The dog is looking for a house in the city.",
+            "COMET": 0.0975341796875
+        },
+        {
+            "src": "Pies szuka domu swojego w mieście.",
+            "mt": "The dog is looking for a home in town.",
+            "COMET": 0.333740234375
+        },
+        {
+            "src": "Pies szuka domu swojego w mieście.",
+            "mt": "The dog is looking for his home in the town.",
+            "COMET": 0.31201171875
+        },
+        {
+            "src": "Pies szuka domu swojego w mieście.",
+            "mt": "The dog is looking for his house in the city.",
+            "COMET": 0.1956787109375
+        },
+        {
+            "src": "Pies szuka domu swojego w mieście.",
+            "mt": "The dog is looking for a home in the town.",
+            "COMET": 0.2401123046875
+        },
+        {
+            "src": "Pies szuka domu swojego w mieście.",
+            "mt": "The dog is looking for a house in town.",
+            "COMET": 0.067626953125
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą ze szkoły.",
+            "mt": "The woman talks to a school colleague.",
+            "COMET": 0.32373046875
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą ze szkoły.",
+            "mt": "A woman talks to a school colleague.",
+            "COMET": 0.37060546875
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą ze szkoły.",
+            "mt": "The woman talks to her school colleague.",
+            "COMET": 0.37060546875
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą ze szkoły.",
+            "mt": "The woman talks with a school colleague.",
+            "COMET": 0.448486328125
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą ze szkoły.",
+            "mt": "The woman talks to a schoolmate.",
+            "COMET": 0.323486328125
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą ze szkoły.",
+            "mt": "The woman talks to her schoolmate.",
+            "COMET": 0.400634765625
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą ze szkoły.",
+            "mt": "The woman talks to a friend from school.",
+            "COMET": 0.388916015625
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą ze szkoły.",
+            "mt": "The woman talks to a friend from the school.",
+            "COMET": 0.1539306640625
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą ze szkoły.",
+            "mt": "The girl talks to a schoolmate.",
+            "COMET": 0.35888671875
+        },
+        {
+            "src": "Kobieta rozmawia z kolegą ze szkoły.",
+            "mt": "She talks to a schoolmate.",
+            "COMET": 0.25537109375
+        },
+        {
+            "src": "Mężczyzna ogląda film animowany.",
+            "mt": "A man watches an animated film.",
+            "COMET": 0.560546875
+        },
+        {
+            "src": "Mężczyzna ogląda film animowany.",
+            "mt": "A man watches an animated movie.",
+            "COMET": 0.5224609375
+        },
+        {
+            "src": "Mężczyzna ogląda film animowany.",
+            "mt": "The man watches an animated film.",
+            "COMET": 0.52587890625
+        },
+        {
+            "src": "Mężczyzna ogląda film animowany.",
+            "mt": "A man is watching an animated film.",
+            "COMET": 0.517578125
+        },
+        {
+            "src": "Mężczyzna ogląda film animowany.",
+            "mt": "The man watches an animated movie.",
+            "COMET": 0.482177734375
+        },
+        {
+            "src": "Mężczyzna ogląda film animowany.",
+            "mt": "The man is watching an animated film.",
+            "COMET": 0.474609375
+        },
+        {
+            "src": "Mężczyzna ogląda film animowany.",
+            "mt": "A male watches an animated film.",
+            "COMET": 0.490234375
+        },
+        {
+            "src": "Mężczyzna ogląda film animowany.",
+            "mt": "A man watches an animation film.",
+            "COMET": 0.443115234375
+        },
+        {
+            "src": "Mężczyzna ogląda film animowany.",
+            "mt": "A man watches a cartoon.",
+            "COMET": 0.427490234375
+        },
+        {
+            "src": "Mężczyzna ogląda film animowany.",
+            "mt": "The man watches the animated film.",
+            "COMET": 0.419189453125
+        },
+        {
+            "src": "Dziecko uczy się języka hiszpańskiego.",
+            "mt": "The child learns Spanish.",
+            "COMET": 0.3720703125
+        },
+        {
+            "src": "Dziecko uczy się języka hiszpańskiego.",
+            "mt": "The child is learning Spanish.",
+            "COMET": 0.477783203125
+        },
+        {
+            "src": "Dziecko uczy się języka hiszpańskiego.",
+            "mt": "The boy is learning Spanish.",
+            "COMET": 0.49609375
+        },
+        {
+            "src": "Dziecko uczy się języka hiszpańskiego.",
+            "mt": "The boy learns Spanish.",
+            "COMET": 0.375
+        },
+        {
+            "src": "Dziecko uczy się języka hiszpańskiego.",
+            "mt": "The child will learn Spanish.",
+            "COMET": 0.39453125
+        },
+        {
+            "src": "Dziecko uczy się języka hiszpańskiego.",
+            "mt": "The children learn Spanish.",
+            "COMET": 0.435791015625
+        },
+        {
+            "src": "Dziecko uczy się języka hiszpańskiego.",
+            "mt": "He learns Spanish.",
+            "COMET": 0.10760498046875
+        },
+        {
+            "src": "Dziecko uczy się języka hiszpańskiego.",
+            "mt": "He is learning Spanish.",
+            "COMET": 0.265625
+        },
+        {
+            "src": "Dziecko uczy się języka hiszpańskiego.",
+            "mt": "The child is learning the Spanish.",
+            "COMET": 0.4384765625
+        },
+        {
+            "src": "Dziecko uczy się języka hiszpańskiego.",
+            "mt": "The child learns the Spanish.",
+            "COMET": 0.308349609375
+        },
+        {
+            "src": "Samochód jedzie do sklepu z elektroniką.",
+            "mt": "The car goes to the electronics shop.",
+            "COMET": -0.1468505859375
+        },
+        {
+            "src": "Samochód jedzie do sklepu z elektroniką.",
+            "mt": "The car goes to the electronics store.",
+            "COMET": -0.056610107421875
+        },
+        {
+            "src": "Samochód jedzie do sklepu z elektroniką.",
+            "mt": "The car goes to an electronics shop.",
+            "COMET": -0.1422119140625
+        },
+        {
+            "src": "Samochód jedzie do sklepu z elektroniką.",
+            "mt": "The car goes to an electronics store.",
+            "COMET": -0.061126708984375
+        },
+        {
+            "src": "Samochód jedzie do sklepu z elektroniką.",
+            "mt": "A car goes to the electronics shop.",
+            "COMET": -0.3017578125
+        },
+        {
+            "src": "Samochód jedzie do sklepu z elektroniką.",
+            "mt": "A car goes to the electronics store.",
+            "COMET": -0.244384765625
+        },
+        {
+            "src": "Samochód jedzie do sklepu z elektroniką.",
+            "mt": "A car goes to an electronics shop.",
+            "COMET": -0.352294921875
+        },
+        {
+            "src": "Samochód jedzie do sklepu z elektroniką.",
+            "mt": "The car is going to the electronics shop.",
+            "COMET": -0.09063720703125
+        },
+        {
+            "src": "Samochód jedzie do sklepu z elektroniką.",
+            "mt": "Car goes to the electronics shop.",
+            "COMET": -0.316650390625
+        },
+        {
+            "src": "Samochód jedzie do sklepu z elektroniką.",
+            "mt": "The car is going to the electronics store.",
+            "COMET": 0.05621337890625
+        },
+        {
+            "src": "Pies biega po plaży letniej.",
+            "mt": "The dog runs on the summer beach.",
+            "COMET": -0.31884765625
+        },
+        {
+            "src": "Pies biega po plaży letniej.",
+            "mt": "The dog runs along the summer beach.",
+            "COMET": -0.07269287109375
+        },
+        {
+            "src": "Pies biega po plaży letniej.",
+            "mt": "The dog runs around the summer beach.",
+            "COMET": -0.146484375
+        },
+        {
+            "src": "Pies biega po plaży letniej.",
+            "mt": "The dog runs on a summer beach.",
+            "COMET": -0.38671875
+        },
+        {
+            "src": "Pies biega po plaży letniej.",
+            "mt": "The dog runs across the summer beach.",
+            "COMET": -0.2353515625
+        },
+        {
+            "src": "Pies biega po plaży letniej.",
+            "mt": "The dog runs the summer beach.",
+            "COMET": -0.693359375
+        },
+        {
+            "src": "Pies biega po plaży letniej.",
+            "mt": "The dog runs on the beach in summer.",
+            "COMET": -0.11151123046875
+        },
+        {
+            "src": "Pies biega po plaży letniej.",
+            "mt": "Dog runs on the summer beach.",
+            "COMET": -0.255126953125
+        },
+        {
+            "src": "Pies biega po plaży letniej.",
+            "mt": "The dog runs on summer beach.",
+            "COMET": -0.35205078125
+        },
+        {
+            "src": "Pies biega po plaży letniej.",
+            "mt": "The dog runs on summer beaches.",
+            "COMET": -0.254638671875
+        },
+        {
+            "src": "Kobieta kupuje ubrania dla dzieci.",
+            "mt": "A woman buys clothes for children.",
+            "COMET": 0.625
+        },
+        {
+            "src": "Kobieta kupuje ubrania dla dzieci.",
+            "mt": "The woman buys clothes for children.",
+            "COMET": 0.59814453125
+        },
+        {
+            "src": "Kobieta kupuje ubrania dla dzieci.",
+            "mt": "The woman buys clothes for the children.",
+            "COMET": 0.56689453125
+        },
+        {
+            "src": "Kobieta kupuje ubrania dla dzieci.",
+            "mt": "A woman buys clothes for her children.",
+            "COMET": 0.572265625
+        },
+        {
+            "src": "Kobieta kupuje ubrania dla dzieci.",
+            "mt": "She buys clothes for children.",
+            "COMET": 0.5595703125
+        },
+        {
+            "src": "Kobieta kupuje ubrania dla dzieci.",
+            "mt": "A woman buys clothes for the children.",
+            "COMET": 0.59619140625
+        },
+        {
+            "src": "Kobieta kupuje ubrania dla dzieci.",
+            "mt": "Woman buys clothes for children.",
+            "COMET": 0.634765625
+        },
+        {
+            "src": "Kobieta kupuje ubrania dla dzieci.",
+            "mt": "A woman buys clothes for kids.",
+            "COMET": 0.62255859375
+        },
+        {
+            "src": "Kobieta kupuje ubrania dla dzieci.",
+            "mt": "She buys clothes for her children.",
+            "COMET": 0.5263671875
+        },
+        {
+            "src": "Kobieta kupuje ubrania dla dzieci.",
+            "mt": "A woman buys clothing for children.",
+            "COMET": 0.6015625
+        },
+        {
+            "src": "Dziecko gra z przyjacielem w parku.",
+            "mt": "The child plays with a friend in the park.",
+            "COMET": 0.478515625
+        },
+        {
+            "src": "Dziecko gra z przyjacielem w parku.",
+            "mt": "A child plays with a friend in the park.",
+            "COMET": 0.5634765625
+        },
+        {
+            "src": "Dziecko gra z przyjacielem w parku.",
+            "mt": "A child plays with a friend in a park.",
+            "COMET": 0.52734375
+        },
+        {
+            "src": "Dziecko gra z przyjacielem w parku.",
+            "mt": "The boy plays with a friend in the park.",
+            "COMET": 0.525390625
+        },
+        {
+            "src": "Dziecko gra z przyjacielem w parku.",
+            "mt": "The kid plays with a friend in the park.",
+            "COMET": 0.48046875
+        },
+        {
+            "src": "Dziecko gra z przyjacielem w parku.",
+            "mt": "The child plays with a friend in a park.",
+            "COMET": 0.4765625
+        },
+        {
+            "src": "Dziecko gra z przyjacielem w parku.",
+            "mt": "Child plays with a friend in the park.",
+            "COMET": 0.484130859375
+        },
+        {
+            "src": "Dziecko gra z przyjacielem w parku.",
+            "mt": "A boy plays with a friend in the park.",
+            "COMET": 0.5810546875
+        },
+        {
+            "src": "Dziecko gra z przyjacielem w parku.",
+            "mt": "A kid plays with a friend in the park.",
+            "COMET": 0.58056640625
+        },
+        {
+            "src": "Dziecko gra z przyjacielem w parku.",
+            "mt": "Baby plays with a friend in the park.",
+            "COMET": 0.479248046875
+        }
+    ]
+}

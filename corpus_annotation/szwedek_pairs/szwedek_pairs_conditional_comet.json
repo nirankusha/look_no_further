@@ -1,0 +1,554 @@
+{
+    "/content/drive/MyDrive/NMT/corpus_annotation/szwedek_pairs/szwedek_pairs_conditional_targets.txt": [
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec dał piłkę kotu.",
+            "mt": "In the yard the boy had fun with the ball. The boy gave the ball to the cat.",
+            "COMET": -0.0170745849609375
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec dał piłkę kotu.",
+            "mt": "In the yard a boy had fun with the ball. The boy gave the ball to the cat.",
+            "COMET": 0.03753662109375
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec dał piłkę kotu.",
+            "mt": "In the yard a boy had fun with the ball. The boy gave the ball to a cat.",
+            "COMET": 0.0784912109375
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec dał piłkę kotu.",
+            "mt": "The boy was playing ball in the yard. The boy gave the ball to the cat.",
+            "COMET": 0.037994384765625
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec dał piłkę kotu.",
+            "mt": "The boy was playing football in the yard. The boy gave the ball to the cat.",
+            "COMET": 0.0732421875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec dał piłkę kotu.",
+            "mt": "A boy was playing football in the yard. The boy gave a cat's ball.",
+            "COMET": -0.2783203125
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec dał piłkę kotu.",
+            "mt": "A boy was playing football in the yard. The boy gave a cat’s ball.",
+            "COMET": -0.27587890625
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec dał piłkę kotu.",
+            "mt": "In the yard a boy was playing with the ball. The boy gave the ball to the cat.",
+            "COMET": 0.0897216796875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec dał piłkę kotu.",
+            "mt": "In the yard the boy had fun with the ball. The boy gave the ball to a cat.",
+            "COMET": 0.02471923828125
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec dał piłkę kotu.",
+            "mt": "In the yard a boy was playing with the ball. The boy gave the ball to a cat.",
+            "COMET": 0.1353759765625
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec pił wodę z miski.",
+            "mt": "The boy was playing football in the yard. The boy was drinking water from a bowl.",
+            "COMET": 0.285888671875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec pił wodę z miski.",
+            "mt": "The boy was playing football in the yard. The boy was drinking water from the bowl.",
+            "COMET": 0.2275390625
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec pił wodę z miski.",
+            "mt": "A boy was playing football in the yard. The boy was drinking water from a bowl.",
+            "COMET": 0.298095703125
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec pił wodę z miski.",
+            "mt": "The boy was playing ball in the yard. The boy was drinking water from a bowl.",
+            "COMET": 0.25927734375
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec pił wodę z miski.",
+            "mt": "The boy was playing ball in the yard. The boy was drinking water from the bowl.",
+            "COMET": 0.1976318359375
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec pił wodę z miski.",
+            "mt": "The boy was playing football in the yard. The boy drank water from a bowl.",
+            "COMET": 0.25
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec pił wodę z miski.",
+            "mt": "The boy was playing football in the yard. The boy drank water from the bowl.",
+            "COMET": 0.200439453125
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec pił wodę z miski.",
+            "mt": "A boy was playing football in the yard. The boy drank water from a bowl.",
+            "COMET": 0.31201171875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec pił wodę z miski.",
+            "mt": "The boy was playing ball in the yard. The boy drank water from a bowl.",
+            "COMET": 0.216552734375
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Chłopiec pił wodę z miski.",
+            "mt": "In the yard the boy was having fun with the ball. The boy was drinking from the bowl.",
+            "COMET": -0.0784912109375
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę dał chłopiec kotu.",
+            "mt": "In the yard the boy had fun with the ball. The ball was given to the boy of the cat.",
+            "COMET": -0.290771484375
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę dał chłopiec kotu.",
+            "mt": "In the yard the boy had fun with the ball. The ball was given by the boy of the cat.",
+            "COMET": -0.387451171875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę dał chłopiec kotu.",
+            "mt": "The boy was playing football in the yard. The boy gave the ball to the cat.",
+            "COMET": 0.0751953125
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę dał chłopiec kotu.",
+            "mt": "In the yard a boy had fun with the ball. The ball was given to the boy of the cat.",
+            "COMET": -0.2261962890625
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę dał chłopiec kotu.",
+            "mt": "The boy was playing ball in the yard. The boy gave the ball to the cat.",
+            "COMET": 0.042205810546875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę dał chłopiec kotu.",
+            "mt": "In the yard the boy had fun with the ball. The ball was given to the boy of a cat.",
+            "COMET": -0.28076171875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę dał chłopiec kotu.",
+            "mt": "In the yard the boy was playing with the ball. The ball was given to the boy of the cat.",
+            "COMET": -0.34326171875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę dał chłopiec kotu.",
+            "mt": "In the yard the boy had fun with the ball. The ball was given by the boy of a cat.",
+            "COMET": -0.3388671875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę dał chłopiec kotu.",
+            "mt": "In the yard a boy had fun with the ball. The ball was given to the boy of a cat.",
+            "COMET": -0.2318115234375
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę dał chłopiec kotu.",
+            "mt": "In the yard a boy had fun with the ball. The ball was given by the boy of the cat.",
+            "COMET": -0.34326171875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę chłopiec dał kotu.",
+            "mt": "In the yard the boy had fun with the ball. The boy gave the ball to the cat.",
+            "COMET": 0.0191192626953125
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę chłopiec dał kotu.",
+            "mt": "The boy was playing football in the yard. The boy gave the ball to the cat.",
+            "COMET": 0.07574462890625
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę chłopiec dał kotu.",
+            "mt": "In the yard the boy was playing with the ball. The boy gave the ball to the cat.",
+            "COMET": 0.062225341796875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę chłopiec dał kotu.",
+            "mt": "In the yard a boy had fun with the ball. The boy gave the ball to the cat.",
+            "COMET": 0.069580078125
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę chłopiec dał kotu.",
+            "mt": "In the yard the boy was playing football. The boy gave the ball to the cat.",
+            "COMET": -0.0018987655639648438
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę chłopiec dał kotu.",
+            "mt": "In the yard a boy was playing with a ball. The boy gave the ball to the cat.",
+            "COMET": 0.168701171875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę chłopiec dał kotu.",
+            "mt": "In the yard the boy had fun with the ball. The boy gave it to the cat.",
+            "COMET": -0.07098388671875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę chłopiec dał kotu.",
+            "mt": "In the yard a boy was playing football. The boy gave the ball to the cat.",
+            "COMET": 0.061279296875
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę chłopiec dał kotu.",
+            "mt": "The boy was playing football in the yard. He gave the ball to the cat.",
+            "COMET": 0.0634765625
+        },
+        {
+            "src": "Na podwórzu bawił się piłką chłopiec. Piłkę chłopiec dał kotu.",
+            "mt": "In the yard the boy had fun with the ball. The boy gave the ball to his cat.",
+            "COMET": -0.0229949951171875
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec dał kotu piłkę.",
+            "mt": "A boy with a cat was playing in the yard. The boy gave the cat a ball.",
+            "COMET": 0.1376953125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec dał kotu piłkę.",
+            "mt": "In the yard a boy and a cat were having fun. The boy gave the cat a ball.",
+            "COMET": 0.1026611328125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec dał kotu piłkę.",
+            "mt": "In the yard a boy with a cat was having fun. The boy gave the cat a ball.",
+            "COMET": 0.037628173828125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec dał kotu piłkę.",
+            "mt": "A boy with a cat was having fun in the yard. The boy gave the cat a ball.",
+            "COMET": 0.07196044921875
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec dał kotu piłkę.",
+            "mt": "A boy and a cat were having fun in the yard. The boy gave the cat a ball.",
+            "COMET": 0.1485595703125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec dał kotu piłkę.",
+            "mt": "A boy with a cat had fun in the yard. The boy gave the cat a ball.",
+            "COMET": 0.032806396484375
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec dał kotu piłkę.",
+            "mt": "A boy and a cat were playing in the yard. The boy gave the cat a ball.",
+            "COMET": 0.2281494140625
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec dał kotu piłkę.",
+            "mt": "In the yard, a boy and a cat were having fun. The boy gave the cat a ball.",
+            "COMET": 0.1480712890625
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec dał kotu piłkę.",
+            "mt": "In the yard a boy with a cat had fun. The boy gave the cat a ball.",
+            "COMET": 0.0161895751953125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec dał kotu piłkę.",
+            "mt": "In the yard, a boy with a cat was having fun. The boy gave the cat a ball.",
+            "COMET": 0.060546875
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec kotu dał piłkę.",
+            "mt": "A boy with a cat was playing in the yard. The boy gave the cat a ball.",
+            "COMET": 0.1226806640625
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec kotu dał piłkę.",
+            "mt": "In the yard a boy with a cat was having fun. The boy gave the cat a ball.",
+            "COMET": 0.0267333984375
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec kotu dał piłkę.",
+            "mt": "A boy with a cat was having fun in the yard. The boy gave the cat a ball.",
+            "COMET": 0.0577392578125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec kotu dał piłkę.",
+            "mt": "A boy with a cat had fun in the yard. The boy gave the cat a ball.",
+            "COMET": 0.0165557861328125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec kotu dał piłkę.",
+            "mt": "In the yard a boy and a cat were having fun. The boy gave the cat a ball.",
+            "COMET": 0.0809326171875
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec kotu dał piłkę.",
+            "mt": "In the yard a boy with a cat was having fun. The boy of the cat gave a ball.",
+            "COMET": -0.330810546875
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec kotu dał piłkę.",
+            "mt": "In the yard a boy with a cat was having fun. The boy of the cat gave the ball.",
+            "COMET": -0.1739501953125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec kotu dał piłkę.",
+            "mt": "In the yard, a boy and a cat were having fun. The boy gave the cat a ball.",
+            "COMET": 0.1259765625
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec kotu dał piłkę.",
+            "mt": "In the yard a boy and a cat were having fun. The boy of the cat gave a ball.",
+            "COMET": -0.2259521484375
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Chłopiec kotu dał piłkę.",
+            "mt": "A boy with a cat was playing in the yard. The boy gave the cat the ball.",
+            "COMET": 0.1461181640625
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu chłopiec dał piłkę.",
+            "mt": "A boy with a cat was playing in the yard. The boy gave a ball to the cat.",
+            "COMET": 0.1002197265625
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu chłopiec dał piłkę.",
+            "mt": "A boy with a cat was playing in the yard. The boy gave the cat a ball.",
+            "COMET": 0.1348876953125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu chłopiec dał piłkę.",
+            "mt": "A boy with a cat was playing in the yard. A boy gave a ball to the cat.",
+            "COMET": 0.041351318359375
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu chłopiec dał piłkę.",
+            "mt": "A boy with a cat was having fun in the yard. The boy gave a ball to the cat.",
+            "COMET": 0.05517578125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu chłopiec dał piłkę.",
+            "mt": "A boy with a cat was playing in the yard. He gave a ball to the cat.",
+            "COMET": -0.020965576171875
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu chłopiec dał piłkę.",
+            "mt": "In the yard a boy with a cat was having fun. The boy gave a ball to the cat.",
+            "COMET": 0.033935546875
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu chłopiec dał piłkę.",
+            "mt": "A boy with a cat had fun in the yard. The boy gave a ball to the cat.",
+            "COMET": 0.01593017578125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu chłopiec dał piłkę.",
+            "mt": "A boy with a cat was playing in the yard. The cat gave the boy a ball.",
+            "COMET": 0.10076904296875
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu chłopiec dał piłkę.",
+            "mt": "A boy with a cat was playing in the yard. He gave the cat a ball.",
+            "COMET": 0.0506591796875
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu chłopiec dał piłkę.",
+            "mt": "A boy with a cat had fun in the yard. The boy gave the cat a ball.",
+            "COMET": 0.0294036865234375
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard a boy had fun with a cat. The cat gave the boy a ball.",
+            "COMET": -0.05242919921875
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu dał chłopiec piłkę.",
+            "mt": "A boy with a cat was playing in the yard. The cat gave the boy a ball.",
+            "COMET": 0.09222412109375
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard a boy was having fun with a cat. The cat gave the boy a ball.",
+            "COMET": -0.0150299072265625
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard a boy and a cat were having fun. The cat gave the boy a ball.",
+            "COMET": -0.00798797607421875
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard a boy with a cat was having fun. The cat gave the boy a ball.",
+            "COMET": -0.07073974609375
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu dał chłopiec piłkę.",
+            "mt": "A boy and a cat were playing in the yard. The cat gave the boy a ball.",
+            "COMET": 0.1934814453125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard a boy had fun with his cat. The cat gave the boy a ball.",
+            "COMET": -0.056915283203125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard a boy had fun with a cat. A cat gave the boy a ball.",
+            "COMET": -0.08099365234375
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu dał chłopiec piłkę.",
+            "mt": "A boy with a cat was playing in the yard. The boy gave the cat a ball.",
+            "COMET": 0.1231689453125
+        },
+        {
+            "src": "Na podwórzu bawił się chłopiec z kotem. Kotu dał chłopiec piłkę.",
+            "mt": "A boy with a cat was playing in the yard. A boy gave a ball to the cat.",
+            "COMET": 0.02825927734375
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu piłkę dał chłopiec.",
+            "mt": "In the yard the cat had fun with the ball. The boy gave the ball to the cat.",
+            "COMET": -0.06890869140625
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu piłkę dał chłopiec.",
+            "mt": "In the yard, the cat had fun with the ball. The boy gave the ball to the cat.",
+            "COMET": -0.089111328125
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu piłkę dał chłopiec.",
+            "mt": "In the yard the cat was playing with the ball. The boy gave the ball to the cat.",
+            "COMET": 0.006938934326171875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu piłkę dał chłopiec.",
+            "mt": "In the yard, the cat was playing with the ball. The boy gave the ball to the cat.",
+            "COMET": -0.01091766357421875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu piłkę dał chłopiec.",
+            "mt": "In the yard the cat had fun with the ball. The boy gave the cat the ball.",
+            "COMET": -0.05767822265625
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu piłkę dał chłopiec.",
+            "mt": "In the yard the cat had fun with the ball. The boy gave it to the cat.",
+            "COMET": -0.234619140625
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu piłkę dał chłopiec.",
+            "mt": "In the yard, the cat had fun with the ball. The boy gave the cat the ball.",
+            "COMET": -0.057891845703125
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu piłkę dał chłopiec.",
+            "mt": "In the yard, the cat played with the ball. The boy gave the ball to the cat.",
+            "COMET": -0.08349609375
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu piłkę dał chłopiec.",
+            "mt": "In the yard, the cat had fun with the ball. The boy gave it to the cat.",
+            "COMET": -0.2027587890625
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu piłkę dał chłopiec.",
+            "mt": "In the yard the cat was playing football. The boy gave the cat the ball.",
+            "COMET": -0.06793212890625
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard the cat had fun with the ball. The boy gave the ball to the cat.",
+            "COMET": -0.05224609375
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard the cat was playing with the ball. The boy gave the ball to the cat.",
+            "COMET": 0.024627685546875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu dał chłopiec piłkę.",
+            "mt": "The cat was playing football in the yard. The boy gave the cat a ball.",
+            "COMET": 0.025360107421875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard the cat had fun with the ball. The boy gave the cat the ball.",
+            "COMET": -0.048309326171875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard, the cat was playing football. The boy gave the cat a ball.",
+            "COMET": -0.0156402587890625
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard, the cat had fun with the ball. The boy gave the cat the ball.",
+            "COMET": -0.0447998046875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard the cat was playing football. The boy gave the cat a ball.",
+            "COMET": -0.0309600830078125
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu dał chłopiec piłkę.",
+            "mt": "The cat was playing football in the yard. The boy gave the cat the ball.",
+            "COMET": 0.0136260986328125
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard the cat was playing football. The boy gave the cat the ball.",
+            "COMET": -0.044342041015625
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Kotu dał chłopiec piłkę.",
+            "mt": "In the yard, the cat had fun with the ball. The boy gave the cat a ball.",
+            "COMET": -0.10223388671875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Piłkę dał kotu chłopiec.",
+            "mt": "In the yard the cat had fun with the ball. The ball was given to the cat by a boy.",
+            "COMET": 0.011199951171875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Piłkę dał kotu chłopiec.",
+            "mt": "In the yard the cat had fun with the ball. The ball was given to the cat by the boy.",
+            "COMET": -0.06982421875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Piłkę dał kotu chłopiec.",
+            "mt": "In the yard, the cat had fun with the ball. The ball was given to the cat by a boy.",
+            "COMET": 0.0340576171875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Piłkę dał kotu chłopiec.",
+            "mt": "In the yard, the cat had fun with the ball. The ball was given to the cat by the boy.",
+            "COMET": -0.07220458984375
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Piłkę dał kotu chłopiec.",
+            "mt": "In the yard the cat had fun with a ball. The ball was given to the cat by a boy.",
+            "COMET": 0.0190582275390625
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Piłkę dał kotu chłopiec.",
+            "mt": "In the yard, the cat had fun with a ball. The ball was given to the cat by a boy.",
+            "COMET": 0.064208984375
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Piłkę dał kotu chłopiec.",
+            "mt": "In the yard the cat was enjoying the ball. The ball was given to the cat by a boy.",
+            "COMET": -0.023162841796875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Piłkę dał kotu chłopiec.",
+            "mt": "In the yard the cat was playing with the ball. The ball was given to the cat by a boy.",
+            "COMET": 0.0297088623046875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Piłkę dał kotu chłopiec.",
+            "mt": "In the yard, the cat was having fun with the ball. The ball was given to the cat by a boy.",
+            "COMET": 0.0780029296875
+        },
+        {
+            "src": "Na podwórzu bawił się kot piłką. Piłkę dał kotu chłopiec.",
+            "mt": "In the yard the cat was playing with a ball. The ball was given to the cat by a boy.",
+            "COMET": 0.06610107421875
+        }
+    ]
+}

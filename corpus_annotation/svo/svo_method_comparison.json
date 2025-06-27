@@ -1,0 +1,20 @@
+{
+  "full": {
+    "avg_entropy": 4.606264683935377,
+    "std_entropy": 2.6535504944049775,
+    "num_tokens": 9,
+    "entropy_key": "full_source_entropy_bits"
+  },
+  "conditional": {
+    "avg_entropy": 6.970955803990364,
+    "std_entropy": 3.39524979917136,
+    "num_tokens": 10,
+    "entropy_key": "conditional_source_entropy_bits"
+  },
+  "manual_autoregressive": {
+    "avg_entropy": 6.970955803990364,
+    "std_entropy": 3.39524979917136,
+    "num_tokens": 10,
+    "entropy_key": "manual_autoregressive_seq2seq_source_entropy_bits"
+  }
+}

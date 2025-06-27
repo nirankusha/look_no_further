@@ -1,0 +1,570 @@
+The woman entered the cafe.
+The woman entered the café.
+The woman went into the cafe.
+A woman entered the cafe.
+The woman enters the cafe.
+A woman enters the cafe.
+The woman came into the cafe.
+The woman went to the cafe.
+The woman went into the café.
+A woman entered the café.
+The man crossed the bridge.
+A man crossed the bridge.
+The man passed through the bridge.
+The man passed the bridge.
+A man crossed a bridge.
+The man went through the bridge.
+A man passed through the bridge.
+The man crossed a bridge.
+A man crosses the bridge.
+A man passed the bridge.
+The boy saw a dog.
+The child saw a dog.
+The kid saw a dog.
+The boy saw the dog.
+The baby saw a dog.
+The child saw the dog.
+The kid saw the dog.
+The baby saw the dog.
+The boy sees a dog.
+The girl saw a dog.
+The book is on the desk.
+The book is lying on the desk.
+The book is on a desk.
+The book is located on the desk.
+The book lies on the desk.
+The book sits on the desk.
+The book is sitting on the desk.
+The book is lying on a desk.
+The book is on the table.
+The book sits on a desk.
+The car rides along the road.
+The car is driving along the road.
+The car drives along the road.
+A car rides along the road.
+The car rides down the road.
+The car rides along the way.
+The car rides on the road.
+A car drives along the road.
+The car is on the road.
+The car is on the way.
+The dog runs in the park.
+The dog is running in the park.
+The dog runs in a park.
+The dog runs through the park.
+The dog races in the park.
+The dog walks in the park.
+A dog runs in the park.
+The dog runs into the park.
+Dog runs in the park.
+The dog runs around the park.
+The woman bought flowers.
+A woman bought flowers.
+The woman purchased flowers.
+The woman buys flowers.
+The girl bought flowers.
+The woman bought the flowers.
+She bought flowers.
+The lady bought flowers.
+The woman purchased the flowers.
+The woman bought a flower.
+A man reads a book.
+The man reads a book.
+The man reads the book.
+A man is reading a book.
+The man is reading a book.
+A man reads the book.
+He reads a book.
+A man reading a book.
+A man read a book.
+The man read a book.
+The child plays with a friend.
+A child plays with a friend.
+The boy plays with a friend.
+The child is playing with a friend.
+The kid plays with a friend.
+A boy plays with a friend.
+The child plays with his friend.
+Child plays with a friend.
+The boy is playing with a friend.
+The kid plays with his friend.
+The car stands in the parking lot.
+The car is in the parking lot.
+The car stands on the parking lot.
+The car is standing in the parking lot.
+The car stands in a parking lot.
+The car is in a parking lot.
+The car is on the parking lot.
+The car stands at the parking lot.
+The car is standing in a parking lot.
+The car stands in the car park.
+The dog is looking for a home.
+The dog is looking for a house.
+The dog is searching for a home.
+The dog is looking for home.
+The dog seeks a home.
+The dog searches for a home.
+The dog is searching for a house.
+The dog seeks home.
+The dog finds a home.
+The dog is looking for a place.
+A woman talks to a friend.
+The woman talks to a friend.
+The woman is talking to a friend.
+A woman is talking to a friend.
+A woman speaks to a friend.
+The woman talks with a friend.
+The woman talks to her friend.
+She talks to a friend.
+A woman talks with a friend.
+The girl talks to a friend.
+A man watches a movie.
+A man watches a film.
+The man watches the movie.
+The man watches the film.
+A man watches the film.
+A man watches the movie.
+The man watches a movie.
+A man is watching a movie.
+A man is watching a film.
+The man watches a film.
+The child learns at school.
+The child is educated at school.
+The child attends school.
+The child goes to school.
+The child is studying at school.
+The child is learning at school.
+The child studies at school.
+The child is educated in school.
+The child is taught at school.
+The child learns in school.
+The car goes to the airport.
+The car is going to the airport.
+A car goes to the airport.
+The car drives to the airport.
+The car rides to the airport.
+The car is driving to the airport.
+A car is going to the airport.
+The car heads to the airport.
+Car goes to the airport.
+The car is heading to the airport
+The dog runs along the beach.
+The dog runs on the beach.
+The dog runs around the beach.
+The dog runs across the beach.
+The dog is running along the beach.
+The dog runs down the beach.
+The dog is running on the beach.
+The dog walks along the beach.
+The dog races along the beach.
+The dog runs up the beach.
+A woman buys shoes.
+The woman buys shoes.
+She buys shoes.
+Woman buys shoes.
+The woman buys the shoes.
+Women buy shoes.
+The girl buys shoes.
+A woman buys a shoes.
+A woman bought shoes.
+The woman bought shoes.
+A man reads a newspaper.
+The man reads the newspaper.
+The man reads a newspaper.
+A man reads the newspaper.
+The man reads the paper.
+A man read a newspaper.
+A man reads a paper.
+A man is reading a newspaper.
+The man read the newspaper.
+He reads a newspaper.
+The child plays with a cat.
+The child plays with the cat.
+The kid plays with the cat.
+The boy plays with a cat.
+The boy plays with the cat.
+A child plays with a cat.
+The kid plays with a cat.
+A kid plays with a cat.
+A boy plays with a cat.
+The child is playing with a cat.
+The car stands on the street.
+The car is standing on the street.
+The car is on the street.
+The car is standing in the street.
+The car stands in the street.
+A car stands on the street.
+The car is in the street.
+A car stands in the street.
+A car is standing on the street.
+The car is on the road.
+The dog is looking for food.
+The dog seeks food.
+The dog searches for food.
+The dog is searching for food.
+The dog is looking for a food.
+The dog's looking for food.
+The dog looks for food.
+The dog is hunting for food.
+The dog is seeking food.
+The dog is looking for a meal.
+The woman talks to her parents.
+A woman talks to her parents.
+The woman is talking to her parents.
+The woman talks with her parents.
+She talks to her parents.
+The woman speaks to her parents.
+A woman speaks to her parents.
+The woman talks to the parents.
+The girl talks to her parents.
+She talks with her parents.
+A man watches television.
+A man watches TV.
+The man watches television.
+The man watches TV.
+A man watches a television.
+The man watches the TV.
+The man watches the television.
+A man watches a TV.
+A man watches the TV.
+The man is watching TV.
+The child learns English.
+The child is learning English.
+The boy is learning English.
+The child will learn English.
+The boy learns English.
+A child learns English.
+The children learn English.
+The child is taught English.
+Children learn English.
+The child learns the language.
+The car goes to the shop.
+The car goes to the store.
+A car goes to the store.
+The car is going to the store.
+A car goes to the shop.
+The car is going to the shop.
+The car goes to a shop.
+Car goes to the shop.
+Car goes to the store.
+The car goes to a store.
+The dog runs through the park.
+The dog runs around the park.
+The dog runs in the park.
+The dog runs across the park.
+The dog is running through the park.
+The dog is running around the park.
+The dog is running in the park.
+The dog runs along the park.
+The dog runs the park.
+The dog runs on the park.
+A woman buys cosmetics.
+The woman buys cosmetics.
+Women buy cosmetics.
+Woman buys cosmetics.
+The woman buys the cosmetics.
+She buys cosmetics.
+A woman purchases cosmetics.
+The woman purchases cosmetics.
+A woman buys her cosmetics.
+A woman buys a cosmetic.
+A man reads a history book.
+The man reads a history book.
+A man reads a historical book.
+The man reads a historical book.
+A man reads a book of history.
+The man reads a book of history.
+He reads a history book.
+A man reads an historical book.
+The man reads an historical book.
+The man is reading a history book.
+The child plays with friends.
+The child plays with his friends.
+The boy plays with his friends.
+A child plays with friends.
+The boy plays with friends.
+A child plays with his friends.
+The child is playing with friends.
+The child is playing with his friends.
+The kid plays with friends.
+Child plays with friends.
+The dog is looking for his home.
+The dog is searching for his home.
+The dog is looking for his house.
+The dog searches for his home.
+The dog seeks his home.
+The dog is looking for a home.
+The dog is looking for its home.
+The dog is looking for her home.
+The dog finds his home.
+The dog is looking for his own home.
+A woman talks to a colleague.
+The woman talks to her colleague.
+The woman talks to a colleague.
+The woman is talking to a colleague.
+The woman is talking to her colleague.
+A woman talks to her colleague.
+The woman talks with her colleague.
+A woman talks to a friend.
+The woman talks to her friend.
+The woman talks to a friend.
+A man watches a documentary.
+A man watches a documentary film.
+The man watches a documentary film.
+The man watches a documentary.
+The man is watching a documentary film.
+A man watches a documentary movie.
+A man is watching a documentary film.
+The man is watching a documentary.
+A man is watching a documentary.
+A male watches a documentary.
+The child learns German.
+The child is learning German.
+The boy is learning German.
+The child will learn German.
+The boy learns German.
+The children learn German.
+The child studies German.
+He learns German.
+The child is learning the German.
+The child learns the German.
+The car goes to the restaurant.
+The car goes to a restaurant.
+The car is going to the restaurant.
+A car goes to a restaurant.
+A car goes to the restaurant.
+Car goes to the restaurant.
+The car drives to the restaurant.
+The car is going to a restaurant.
+The car rides to the restaurant.
+Car goes to a restaurant.
+The dog runs on the waking beach.
+The dog runs along the waking beach.
+The dog runs around the waking beach.
+The dog runs across the waking beach.
+The dog runs on a waking beach.
+The dog is running on the waking beach.
+The dog races along the waking beach.
+The dog runs on the wave beach.
+The dog runs down the waking beach.
+The dog runs along the wave beach.
+A woman buys clothes.
+The woman buys clothes.
+She buys clothes.
+Woman buys clothes.
+The girl buys clothes.
+A woman buys clothing.
+The woman buys clothing.
+The woman purchases clothes.
+Women buy clothes.
+He buys clothes.
+A man reads a scientific book.
+The man reads a scientific book.
+A man reads a science book.
+The man reads a science book.
+A man reads a book.
+The man reads a book.
+The man is reading a scientific book.
+He reads a scientific book.
+The man read a scientific book.
+He reads a book.
+The child plays with the siblings.
+The child plays with his siblings.
+A child plays with his siblings.
+The boy plays with his siblings.
+A child plays with the siblings.
+A child plays with a sibling.
+The child is playing with his siblings.
+The child plays with a sibling.
+Children play with siblings.
+The child plays with the sibling.
+The car stands on the main street.
+The car is on the main street.
+The car is standing on the main street.
+The car is located on the main street.
+The car sits on the main street.
+The car stands in the main street.
+The car stands on the main road.
+The car is on the main road.
+The car is standing in the main street.
+The car is in the main street.
+The dog is looking for a dog feed.
+Dog looking for food for dog.
+The dog is looking for dog feed.
+The dog is looking for dog food.
+Dog looking for feed for dog.
+Dog looking for dog feed.
+Dog is looking for food for dog.
+The dog is looking for food for dog.
+Dog looking for dog food.
+Dog is looking for dog feed.
+A woman talks to a friend.
+The woman talks to a friend.
+The woman is talking to a friend.
+The woman talks to her friend.
+She talks to a friend.
+A woman is talking to a friend.
+A woman talks to her friend.
+The woman is talking to her friend.
+The woman talks with a friend.
+The girl talks to a friend.
+A man watches an action film.
+A man watches an action movie.
+The man watches an action film.
+A man watches a movie of action.
+The man watches an action movie.
+A man watches a film of action.
+A man is watching an action film.
+The man watches the action film.
+A man watches an action video.
+A man watching an action film.
+The child learns French.
+The child is learning French.
+The boy learns French.
+The boy is learning French.
+The child is taught French.
+The children learn French.
+He learns French.
+The child studies French.
+The child learns French language.
+The child learns the French.
+The car goes to the museum.
+A car goes to the museum.
+The car is going to the museum.
+The car goes to a museum.
+A car goes to a museum.
+Car goes to the museum.
+The car rides to the museum.
+The car drives to the museum.
+The car goes to the Museum.
+The car goes to museum.
+The dog runs through the spring park.
+The dog runs around the spring park.
+The dog runs in the spring park.
+The dog runs through a spring park.
+The dog races through the spring park.
+The dog runs on the spring park.
+The dog runs through the Spring Park.
+The dog runs along the spring park.
+The dog runs across the spring park.
+The dog runs the spring park.
+A woman buys cosmetics for her body.
+The woman buys cosmetics for the body.
+The woman buys cosmetics for her body.
+A woman buys cosmetics for the body.
+A woman buys body cosmetics.
+Women buy cosmetics for the body.
+The woman buys body cosmetics.
+A woman purchases cosmetics for her body.
+She buys cosmetics for her body.
+Woman buys cosmetics for the body.
+A man reads a book of fact.
+The man reads a book of fact.
+The man reads the book of fact.
+He reads a book of facts.
+The man is reading a book of fact.
+A man reads the book of fact.
+A man reads a fact book.
+The man reads a fact book.
+A man is reading a book of fact.
+He reads a book of fact.
+The child plays with a friend from school.
+The child plays with a friend from the school.
+A child plays with a friend from school.
+The boy plays with a friend from school.
+A child plays with a friend from the school.
+The boy plays with a friend from the school.
+The kid plays with a friend from school.
+A boy plays with a friend from school.
+The child is playing with a friend from school.
+The child plays with a school friend.
+The car is parked in front of the house.
+The car stands in the parking lot in front of the house.
+The car is in the parking lot in front of the house.
+The car stands in a parking lot in front of the house.
+The car is in a parking lot in front of the house.
+The car stands in the car park in front of the house.
+The car stands on the parking lot in front of the house.
+A car stands in the parking lot in front of the house.
+The car stands in front of the house.
+The car is in front of the house.
+The dog is looking for a home in the city.
+The dog is looking for his home in the city.
+The dog is looking for his home in town.
+The dog is looking for its home in the city.
+The dog is looking for a house in the city.
+The dog is looking for a home in town.
+The dog is looking for his home in the town.
+The dog is looking for his house in the city.
+The dog is looking for a home in the town.
+The dog is looking for a house in town.
+The woman talks to a school colleague.
+A woman talks to a school colleague.
+The woman talks to her school colleague.
+The woman talks with a school colleague.
+The woman talks to a schoolmate.
+The woman talks to her schoolmate.
+The woman talks to a friend from school.
+The woman talks to a friend from the school.
+The girl talks to a schoolmate.
+She talks to a schoolmate.
+A man watches an animated film.
+A man watches an animated movie.
+The man watches an animated film.
+A man is watching an animated film.
+The man watches an animated movie.
+The man is watching an animated film.
+A male watches an animated film.
+A man watches an animation film.
+A man watches a cartoon.
+The man watches the animated film.
+The child learns Spanish.
+The child is learning Spanish.
+The boy is learning Spanish.
+The boy learns Spanish.
+The child will learn Spanish.
+The children learn Spanish.
+He learns Spanish.
+He is learning Spanish.
+The child is learning the Spanish.
+The child learns the Spanish.
+The car goes to the electronics shop.
+The car goes to the electronics store.
+The car goes to an electronics shop.
+The car goes to an electronics store.
+A car goes to the electronics shop.
+A car goes to the electronics store.
+A car goes to an electronics shop.
+The car is going to the electronics shop.
+Car goes to the electronics shop.
+The car is going to the electronics store.
+The dog runs on the summer beach.
+The dog runs along the summer beach.
+The dog runs around the summer beach.
+The dog runs on a summer beach.
+The dog runs across the summer beach.
+The dog runs the summer beach.
+The dog runs on the beach in summer.
+Dog runs on the summer beach.
+The dog runs on summer beach.
+The dog runs on summer beaches.
+A woman buys clothes for children.
+The woman buys clothes for children.
+The woman buys clothes for the children.
+A woman buys clothes for her children.
+She buys clothes for children.
+A woman buys clothes for the children.
+Woman buys clothes for children.
+A woman buys clothes for kids.
+She buys clothes for her children.
+A woman buys clothing for children.
+The child plays with a friend in the park.
+A child plays with a friend in the park.
+A child plays with a friend in a park.
+The boy plays with a friend in the park.
+The kid plays with a friend in the park.
+The child plays with a friend in a park.
+Child plays with a friend in the park.
+A boy plays with a friend in the park.
+A kid plays with a friend in the park.
+Baby plays with a friend in the park.
