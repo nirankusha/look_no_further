@@ -12,7 +12,7 @@ def load_preloaded_datasets() -> Dict[str, Any]:
 
     dataset_names = ["svo", "svo_corpus", "ovs", "ovs_corpus",  "szwedek_pairs"]
     dataset_paths = {
-        name: f"/content/drive/MyDrive/NMT/corpus_annotation/{name}/{name}_comprehensive_with_comet.json"
+        name: f"./corpus_annotation/{name}/{name}_comprehensive_with_comet.json"
         for name in dataset_names
     }
 
